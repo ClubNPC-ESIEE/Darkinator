@@ -11,34 +11,24 @@ class SimpleSQLiteDatabase:
             CREATE TABLE IF NOT EXISTS users (
                 id BIGINT PRIMARY KEY NOT NULL,
                 name VARCHAR(100) NOT NULL,
-                realname VARCHAR(100) NOT NULL,
-                balance DOUBLE UNSIGNED
-            )
-        '''
-        create_items_table_query = '''
-            CREATE TABLE IF NOT EXISTS items (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                name VARCHAR(100) NOT NULL,
-                quantity INT UNSIGNED,
-                price DOUBLE UNSIGNED NOT NULL
+                points BIGINT UNSIGNED
             )
         '''
         with self.connection:
             self.connection.execute(create_users_table_query)
-            self.connection.execute(create_items_table_query)
 
     # Users Table
-    def insert_user(self, id_user, name,realname, balance):
+    def insert_user(self, id_user):
         insert_query = '''
-            INSERT INTO users (id, name,realname, balance) VALUES (?,?,?,?)
+            INSERT INTO users (id,name,points) VALUES (?,"",0)
         '''
         with self.connection:
-            self.connection.execute(insert_query, (id_user, name,realname, balance))
+            self.connection.execute(insert_query, (id_user,))
 
-    def update_balance_by_id(self, ajout, id_user):
+    def update_points_by_id(self, ajout, id_user):
         update_query = '''
             UPDATE users
-            SET balance = balance + ?
+            SET points = points + ?
             WHERE id = ?
         '''
         with self.connection:
@@ -46,7 +36,7 @@ class SimpleSQLiteDatabase:
 
     def get_user_by_id(self, id_user):
         select_query = '''
-            SELECT id, name, realname, balance
+            SELECT id, name, points
             FROM users
             WHERE id = ?
         '''
@@ -64,36 +54,22 @@ class SimpleSQLiteDatabase:
             cursor = self.connection.execute(select_query, (id_user,))
             result = cursor.fetchone()
             if result:
-                return str(result[0])  # Renvoie la balance comme float
-            else:
-                return None  # Ou tout autre indication de l'absence de résultat
-
-    def get_user_realname_by_id(self, id_user):
-        select_query = '''
-            SELECT realname
-            FROM users
-            WHERE id = ?
-        '''
-        with self.connection:
-            cursor = self.connection.execute(select_query, (id_user,))
-            result = cursor.fetchone()
-            if result:
-                return str(result[0])  # Renvoie la balance comme float
+                return str(result[0])
             else:
                 return None  # Ou tout autre indication de l'absence de résultat
 
     def get_all_users(self):
         select_all_query = '''
-            SELECT id, name, realname, balance
-            FROM users ORDER BY balance ASC
+            SELECT id, name, points
+            FROM users ORDER BY points DESC
         '''
         with self.connection:
             cursor = self.connection.execute(select_all_query)
             return cursor.fetchall() #liste de tuples
 
-    def get_balance_by_id(self,id_user):
+    def get_points_by_id(self,id_user):
         select_query = '''
-            SELECT balance
+            SELECT points
             FROM users
             WHERE id = ?
         '''
@@ -101,44 +77,19 @@ class SimpleSQLiteDatabase:
             cursor = self.connection.execute(select_query, (id_user,))
             result = cursor.fetchone()
             if result:
-                return float(result[0])  # Renvoie la balance comme float
+                return int(result[0])  # Renvoie la balance comme float
             else:
                 return None  # Ou tout autre indication de l'absence de résultat
 
     # Items Table
-    def insert_item(self, name_item, quantity_item, price_item):
+    def insert_champion(self, name, title, gender,role, type,race, resource, typeautoattack,region,releaseyear, search_name):
         insert_query = '''
-            INSERT INTO items (name,quantity,price) VALUES (?,?,?)
+            INSERT INTO Champions (name, title, gender,role, type,race, 
+            resource, typeautoattack,region,releaseyear, search_name) 
+            VALUES (?,?,?,?,?,?,?,?,?,?,?)
         '''
         with self.connection:
-            self.connection.execute(insert_query, (name_item, quantity_item, price_item))
-
-    def update_quantity_by_name(self, new_quantity,name_item):
-        update_query = '''
-            UPDATE items
-            SET quantity = ?
-            WHERE name = ?
-        '''
-        with self.connection:
-            self.connection.execute(update_query, (new_quantity,name_item))
-
-    def update_price_by_name(self, new_price, name_item):
-        update_query = '''
-            UPDATE items
-            SET price = ?
-            WHERE name = ?
-        '''
-        with self.connection:
-            self.connection.execute(update_query, (new_price, name_item))
-
-    def update_realname_by_id(self,realname,id_user):
-        update_query = '''
-            UPDATE users
-            SET realname = ?
-            WHERE id = ?
-        '''
-        with self.connection:
-            self.connection.execute(update_query, (realname, id_user))
+            self.connection.execute(insert_query, (name, title, gender,role, type,race, resource, typeautoattack,region,releaseyear, search_name))
 
     def update_name_by_id(self,name,id_user):
         update_query = '''
@@ -149,52 +100,73 @@ class SimpleSQLiteDatabase:
         with self.connection:
             self.connection.execute(update_query, (name, id_user))
 
-    def get_item_by_name(self, name_item):
+    def get_name_champ_by_search(self,search_name):
+         select_query = '''
+            SELECT name FROM Champions WHERE search_name = ?
+            '''
+         with self.connection:
+            cursor = self.connection.execute(select_query, (search_name,))
+            result =cursor.fetchone()
+            if result:
+                return str(result[0])
+            else:
+                return None
+
+    def get_champion_by_name(self, name_champ):
         select_query = '''
-            SELECT name, quantity, price
-            FROM items
-            WHERE name = ?
+            SELECT name, title, gender,role, type,race, 
+            resource, typeautoattack,region,releaseyear, search_name
+            FROM Champions
+            WHERE search_name = ?
         '''
         with self.connection:
-            cursor = self.connection.execute(select_query, (name_item,))
+            cursor = self.connection.execute(select_query, (name_champ,))
             return cursor.fetchone() #tuple
 
-    def get_item_price(self,name_item):
+    def get_champ_guess_mode(self, name_champ):
         select_query = '''
-            SELECT price
-            FROM items
-            WHERE name = ?
+            SELECT gender,role, type,race, 
+            resource, typeautoattack,region,releaseyear
+            FROM Champions
+            WHERE search_name = ?
         '''
         with self.connection:
-            cursor = self.connection.execute(select_query, (name_item,))
-            result = cursor.fetchone()
-            if result:
-                return float(result[0])
-            else:
-                return None  # Ou tout autre indication de l'absence de résultat
+            cursor = self.connection.execute(select_query, (name_champ,))
+            return cursor.fetchone() #tuple
 
-    def get_item_quantity(self,name_item):
-        select_query = '''
-            SELECT quantity
-            FROM items
-            WHERE name = ?
-        '''
-        with self.connection:
-            cursor = self.connection.execute(select_query, (name_item,))
-            result = cursor.fetchone()
-            if result:
-                return int(result[0])
-            else:
-                return None  # Ou tout autre indication de l'absence de résultat
-
-    def get_all_items(self):
+    def get_all_champions(self): #acces bureau uniquement éviter les spam
         select_all_query = '''
-            SELECT name, quantity, price
-            FROM items ORDER BY name
+            SELECT search_name
+            FROM Champions ORDER BY search_name
         '''
         with self.connection:
             cursor = self.connection.execute(select_all_query)
             return cursor.fetchall() #retourne liste de tuples
+
+    def get_champ_same_firstnletter(self,n, command_name, n_):
+        select_all_query='''
+            SELECT name FROM Champions
+            WHERE SUBSTR(search_name, 1, ?) = SUBSTR(?, 1, ?)
+            GROUP BY search_name;
+        '''
+        with self.connection:
+            cursor = self.connection.execute(select_all_query, (n,command_name, n_))
+            result = cursor.fetchall()
+            if not result:  # Si result est vide (aucun enregistrement trouvé)
+                return None
+            return result  # Retourne la liste de tuples si des enregistrements ont été trouvés
+
+    def get_champ_random(self):
+        select_query=''' 
+            SELECT search_name FROM Champions ORDER BY RANDOM() LIMIT 1;
+        '''
+        with self.connection:
+            cursor = self.connection.execute(select_query)
+            result = cursor.fetchone()
+            if result:
+                return str(result[0])  # Renvoie le résultat en tant que chaîne de caractères
+            else:
+                return None
 
     def user_exist_by_id(self,id):
         select_query="SELECT EXISTS (SELECT 1 FROM users WHERE id=?)"
@@ -203,8 +175,8 @@ class SimpleSQLiteDatabase:
             result = cursor.fetchone()
             return result[0] == 1 # 1 if exists, 0 if not exists
 
-    def item_exist_by_name(self,name):
-        select_query="SELECT EXISTS (SELECT 1 FROM items WHERE name=?)"
+    def champ_exist_by_name(self,name):
+        select_query="SELECT EXISTS (SELECT 1 FROM Champions WHERE search_name=?)"
         with self.connection:
             cursor = self.connection.execute(select_query, (name,))
             result = cursor.fetchone()
@@ -218,45 +190,14 @@ class SimpleSQLiteDatabase:
             cursor = self.connection.execute(delete_query, (id_user,))
             #return cursor.rowcount #nb de lignes affectées par la suppression
 
-    def delete_item_by_name(self,item_name):
+    def delete_champ_by_name(self,search_name):
         delete_query = '''
-        DELETE FROM items WHERE name=?
+        DELETE FROM Champions WHERE search_name=?
         '''
         with self.connection:
-            cursor = self.connection.execute(delete_query, (item_name,))
+            cursor = self.connection.execute(delete_query, (search_name,))
             #return cursor.rowcount #nb de lignes affectées par la suppression
 
     def close_connection(self):
         self.connection.close()
-"""
-# Example usage
-database = SimpleSQLiteDatabase('my_database.db')
 
-# Insert a new user
-database.insert_user('John Doe', 1000)
-
-# Insert a new item
-database.insert_item('Apple', 5, 100)
-
-# Update user balance by name
-database.update_balance_by_name('John Doe', 1200)
-
-# Get user by name
-user = database.get_user_by_name('John Doe')
-print(user)
-
-# Get item by name
-item = database.get_item_by_name('Apple')
-print(item)
-
-# Get all users
-all_users = database.get_all_users()
-print(all_users)
-
-# Get all items
-all_items = database.get_all_items()
-print(all_items)
-
-# Don't forget to close the connection when you're done
-database.close_connection()
-"""
