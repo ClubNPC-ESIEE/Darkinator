@@ -1,0 +1,2264 @@
+2023-08-28 17:20:32,368 - INFO - logging in using static token
+2023-08-28 17:20:33,479 - INFO - Shard ID None has connected to Gateway (Session ID: 656095d296a4806ba97f8c6a3f2bc2e2).
+2023-08-28 17:20:35,511 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:20:41,153 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-08-28 17:20:41,153 - ERROR - parameters are of unsupported type
+2023-08-28 17:21:10,486 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:21:10,486 - ERROR - parameters are of unsupported type
+2023-08-28 17:22:05,930 - INFO - logging in using static token
+2023-08-28 17:22:06,849 - INFO - Shard ID None has connected to Gateway (Session ID: 1a5b6c54733f239f317ce6309c10bf6f).
+2023-08-28 17:22:08,904 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:22:09,778 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:22:09,778 - ERROR - parameters are of unsupported type
+2023-08-28 17:23:44,351 - INFO - logging in using static token
+2023-08-28 17:23:45,198 - INFO - Shard ID None has connected to Gateway (Session ID: c05d4d453baa7ef41ee1d4372bbad568).
+2023-08-28 17:23:47,231 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:23:51,070 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:23:51,071 - ERROR - parameters are of unsupported type
+2023-08-28 17:27:42,727 - INFO - logging in using static token
+2023-08-28 17:27:43,625 - INFO - Shard ID None has connected to Gateway (Session ID: 1edb847a8dfa5b3d149924e97851d54c).
+2023-08-28 17:27:45,679 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:27:51,789 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:27:51,789 - ERROR - parameters are of unsupported type
+2023-08-28 17:28:52,597 - INFO - Message sent by reissou : "?hello" [ id: 646621782647767051 ]
+2023-08-28 17:28:52,597 - ERROR - parameters are of unsupported type
+2023-08-28 17:32:34,827 - INFO - logging in using static token
+2023-08-28 17:32:35,738 - INFO - Shard ID None has connected to Gateway (Session ID: 880679b3030607fd228a4c1b2ecbb8af).
+2023-08-28 17:32:37,794 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:32:42,339 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:32:42,339 - ERROR - parameters are of unsupported type
+2023-08-28 17:33:01,018 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:33:01,018 - ERROR - parameters are of unsupported type
+2023-08-28 17:33:54,795 - INFO - logging in using static token
+2023-08-28 17:33:55,594 - INFO - Shard ID None has connected to Gateway (Session ID: d50eb6474a35a1ea38cbf18468417887).
+2023-08-28 17:33:57,646 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:34:05,157 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:34:05,157 - ERROR - parameters are of unsupported type
+2023-08-28 17:36:18,159 - INFO - logging in using static token
+2023-08-28 17:36:19,303 - INFO - Shard ID None has connected to Gateway (Session ID: 5a8f257b4c4d916ce8f69406df23f9b3).
+2023-08-28 17:36:21,334 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:36:22,887 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:36:22,887 - ERROR - parameters are of unsupported type
+2023-08-28 17:36:48,237 - INFO - logging in using static token
+2023-08-28 17:36:49,258 - INFO - Shard ID None has connected to Gateway (Session ID: eb3bfedbb8eff9f781ec87933c6259b2).
+2023-08-28 17:36:51,326 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:36:54,021 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:36:54,021 - ERROR - parameters are of unsupported type
+2023-08-28 17:37:39,810 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-08-28 17:38:23,866 - INFO - logging in using static token
+2023-08-28 17:38:24,799 - INFO - Shard ID None has connected to Gateway (Session ID: eb57898172134e73726050e696f35ded).
+2023-08-28 17:38:26,852 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:38:34,095 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-08-28 17:38:42,238 - INFO - Message sent by ke_rina_ : "?info" [ id: 286201593404194816 ]
+2023-08-28 17:38:56,888 - INFO - Message sent by ke_rina_ : "?point" [ id: 286201593404194816 ]
+2023-08-28 17:38:56,888 - ERROR - 'SimpleSQLiteDatabase' object has no attribute 'get_balance_by_id'
+2023-08-28 17:39:57,476 - INFO - logging in using static token
+2023-08-28 17:39:58,351 - INFO - Shard ID None has connected to Gateway (Session ID: e5fa6f944ccce6022b408e875f92275b).
+2023-08-28 17:40:00,398 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:40:04,940 - INFO - Message sent by ke_rina_ : "?point" [ id: 286201593404194816 ]
+2023-08-28 17:40:04,941 - ERROR - 'SimpleSQLiteDatabase' object has no attribute 'get_balance_by_id'
+2023-08-28 17:40:35,271 - INFO - logging in using static token
+2023-08-28 17:40:36,195 - INFO - Shard ID None has connected to Gateway (Session ID: a943aff2f4bd808813a139ca649c88b0).
+2023-08-28 17:40:38,233 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:40:41,649 - INFO - Message sent by ke_rina_ : "?point" [ id: 286201593404194816 ]
+2023-08-28 17:42:53,557 - INFO - Message sent by ke_rina_ : "?all" [ id: 286201593404194816 ]
+2023-08-28 17:43:13,529 - INFO - logging in using static token
+2023-08-28 17:43:14,341 - INFO - Shard ID None has connected to Gateway (Session ID: 014b9bde7478222d2538b62e8e36729e).
+2023-08-28 17:43:16,385 - INFO - Darkinia#7043 is now running!
+2023-08-28 17:43:19,312 - INFO - Message sent by ke_rina_ : "?all" [ id: 286201593404194816 ]
+2023-08-28 17:43:30,649 - INFO - Message sent by ke_rina_ : "?user" [ id: 286201593404194816 ]
+2023-08-28 17:43:35,860 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-08-28 17:54:21,041 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<run_discord_bot.<locals>.update_bool_guess_async() done, defined at C:\Users\keren\Documents\PycharmProjects\Darkinia\bot.py:52> exception=AttributeError("module 'responses' has no attribute 'update_bool_guess'")>
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia\bot.py", line 54, in update_bool_guess_async
+    responses.update_bool_guess(my_database)
+AttributeError: module 'responses' has no attribute 'update_bool_guess'
+2023-08-28 17:54:22,425 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<run_discord_bot.<locals>.update_bool_guess_async() done, defined at C:\Users\keren\Documents\PycharmProjects\Darkinia\bot.py:52> exception=AttributeError("module 'responses' has no attribute 'update_bool_guess'")>
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia\bot.py", line 54, in update_bool_guess_async
+    responses.update_bool_guess(my_database)
+AttributeError: module 'responses' has no attribute 'update_bool_guess'
+2023-08-28 17:55:02,197 - INFO - logging in using static token
+2023-08-28 17:55:03,214 - INFO - Shard ID None has connected to Gateway (Session ID: 2066edbaf3b6e4a182a3647c2cc13b74).
+2023-08-28 17:55:05,270 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:06:30,661 - INFO - logging in using static token
+2023-08-28 18:06:31,709 - INFO - Shard ID None has connected to Gateway (Session ID: 2568905ba0fc9f0eea53e97a5aa5bab0).
+2023-08-28 18:06:33,729 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:06:45,077 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-08-28 18:06:54,183 - INFO - Message sent by ke_rina_ : "?ahri" [ id: 286201593404194816 ]
+2023-08-28 18:07:04,508 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-08-28 18:07:17,550 - INFO - Message sent by ke_rina_ : "?champs" [ id: 286201593404194816 ]
+2023-08-28 18:08:11,849 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-08-28 18:08:47,482 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051 Reis 0" [ id: 286201593404194816 ]
+2023-08-28 18:08:47,483 - ERROR - parameters are of unsupported type
+2023-08-28 18:08:53,893 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051 Reis" [ id: 286201593404194816 ]
+2023-08-28 18:09:05,127 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:13:20,331 - INFO - logging in using static token
+2023-08-28 18:13:21,293 - INFO - Shard ID None has connected to Gateway (Session ID: 05d6d3f56da1edf0033385f0ed42ab9b).
+2023-08-28 18:13:23,327 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:16:28,735 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:16:28,735 - ERROR - parameters are of unsupported type
+2023-08-28 18:18:01,773 - INFO - logging in using static token
+2023-08-28 18:18:02,621 - INFO - Shard ID None has connected to Gateway (Session ID: 0757a09b14c10b5019ec08333d3536fc).
+2023-08-28 18:18:04,651 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:18:26,972 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-08-28 18:18:31,799 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:18:31,799 - ERROR - parameters are of unsupported type
+2023-08-28 18:22:14,599 - INFO - logging in using static token
+2023-08-28 18:22:15,494 - INFO - Shard ID None has connected to Gateway (Session ID: 1f7ae69dae5b7df3a0cfcc1d408a54e1).
+2023-08-28 18:22:17,535 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:22:19,175 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:22:19,175 - ERROR - parameters are of unsupported type
+2023-08-28 18:23:17,516 - INFO - logging in using static token
+2023-08-28 18:23:18,370 - INFO - Shard ID None has connected to Gateway (Session ID: cf7de4a8e20d061c383226ce3ebc9d03).
+2023-08-28 18:23:20,403 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:23:23,027 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:23:23,027 - ERROR - parameters are of unsupported type
+2023-08-28 18:23:52,051 - INFO - logging in using static token
+2023-08-28 18:23:53,873 - INFO - Shard ID None has connected to Gateway (Session ID: f4aa774d38dc23c55d0df81e745c9c19).
+2023-08-28 18:23:56,011 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:23:56,855 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:23:56,856 - ERROR - parameters are of unsupported type
+2023-08-28 18:24:10,779 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:24:10,779 - ERROR - parameters are of unsupported type
+2023-08-28 18:24:39,242 - INFO - logging in using static token
+2023-08-28 18:24:40,057 - INFO - Shard ID None has connected to Gateway (Session ID: 5acd01d128dd075f1ff5b74445d7c974).
+2023-08-28 18:24:42,092 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:24:44,864 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:24:44,865 - ERROR - parameters are of unsupported type
+2023-08-28 18:26:58,077 - INFO - logging in using static token
+2023-08-28 18:26:58,996 - INFO - Shard ID None has connected to Gateway (Session ID: 01810e226f458bce77a4a1ee700540ec).
+2023-08-28 18:27:01,120 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:27:04,654 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:28:07,087 - INFO - logging in using static token
+2023-08-28 18:28:08,003 - INFO - Shard ID None has connected to Gateway (Session ID: 98fc731c6ea88c7262bb46ea24ca588f).
+2023-08-28 18:28:10,151 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:28:19,685 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:28:19,686 - ERROR - parameters are of unsupported type
+2023-08-28 18:28:43,127 - INFO - logging in using static token
+2023-08-28 18:28:44,218 - INFO - Shard ID None has connected to Gateway (Session ID: 10d111c0c052f4cc78a15e654be7271c).
+2023-08-28 18:28:46,354 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:28:48,639 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:28:48,640 - ERROR - Incorrect number of bindings supplied. The current statement uses 1, and there are 18 supplied.
+2023-08-28 18:29:04,210 - INFO - logging in using static token
+2023-08-28 18:29:09,180 - INFO - Shard ID None has connected to Gateway (Session ID: 89cf410c87a1a86e441ce1edc9e42d3a).
+2023-08-28 18:29:11,234 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:29:11,890 - INFO - logging in using static token
+2023-08-28 18:29:12,860 - INFO - Shard ID None has connected to Gateway (Session ID: e76f0f9534f6199d573503309380f8a9).
+2023-08-28 18:29:14,902 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:29:36,663 - INFO - logging in using static token
+2023-08-28 18:29:38,144 - INFO - Shard ID None has connected to Gateway (Session ID: c17a6c20618f307b2c2dfd74cb006f97).
+2023-08-28 18:29:39,210 - INFO - logging in using static token
+2023-08-28 18:29:40,217 - INFO - Shard ID None has connected to Gateway (Session ID: d4d46e08e7f30d13e736d37765c94371).
+2023-08-28 18:29:42,226 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:29:43,166 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:29:43,167 - ERROR - parameters are of unsupported type
+2023-08-28 18:29:46,318 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:29:46,318 - ERROR - parameters are of unsupported type
+2023-08-28 18:31:16,099 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051 ff" [ id: 286201593404194816 ]
+2023-08-28 18:31:30,429 - INFO - Message sent by ke_rina_ : "?create user 64" [ id: 286201593404194816 ]
+2023-08-28 18:31:30,430 - ERROR - parameters are of unsupported type
+2023-08-28 18:32:50,367 - INFO - logging in using static token
+2023-08-28 18:32:51,333 - INFO - Shard ID None has connected to Gateway (Session ID: 07733266be03a2bc1c30deb17d80111e).
+2023-08-28 18:32:53,367 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:32:58,787 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:32:58,788 - ERROR - Incorrect number of bindings supplied. The current statement uses 1, and there are 18 supplied.
+2023-08-28 18:33:13,163 - INFO - logging in using static token
+2023-08-28 18:33:14,130 - INFO - Shard ID None has connected to Gateway (Session ID: e16c223dc0b3744cf4c8d6d5ac8d5b28).
+2023-08-28 18:33:16,158 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:33:20,442 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:33:20,443 - ERROR - parameters are of unsupported type
+2023-08-28 18:34:21,013 - INFO - logging in using static token
+2023-08-28 18:34:25,244 - INFO - Shard ID None has connected to Gateway (Session ID: 47760e424c2f76c95440ebbf007a9bfd).
+2023-08-28 18:34:27,278 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:34:29,774 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:34:29,775 - ERROR - parameters are of unsupported type
+2023-08-28 18:34:36,164 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:34:36,164 - ERROR - parameters are of unsupported type
+2023-08-28 18:35:04,688 - INFO - logging in using static token
+2023-08-28 18:35:05,694 - INFO - Shard ID None has connected to Gateway (Session ID: a2fb218570d6da16bf73c5d8517918af).
+2023-08-28 18:35:07,743 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:35:10,843 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:35:10,843 - ERROR - parameters are of unsupported type
+2023-08-28 18:37:30,620 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:37:30,620 - ERROR - parameters are of unsupported type
+2023-08-28 18:38:20,641 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:38:20,641 - ERROR - parameters are of unsupported type
+2023-08-28 18:40:52,973 - INFO - logging in using static token
+2023-08-28 18:40:53,780 - INFO - Shard ID None has connected to Gateway (Session ID: fbc12b912d5e2c925546ebfb60ebf314).
+2023-08-28 18:40:55,835 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:41:06,446 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:43:11,698 - INFO - logging in using static token
+2023-08-28 18:43:12,514 - INFO - Shard ID None has connected to Gateway (Session ID: b86eb0d5e193cd916785ae37c85800c4).
+2023-08-28 18:43:14,542 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:43:16,289 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:43:16,289 - ERROR - parameters are of unsupported type
+2023-08-28 18:43:35,032 - INFO - logging in using static token
+2023-08-28 18:43:35,805 - INFO - Shard ID None has connected to Gateway (Session ID: 1d39fcd84890d90315539d180fffd342).
+2023-08-28 18:43:37,971 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:43:44,549 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:43:44,549 - ERROR - parameters are of unsupported type
+2023-08-28 18:43:52,627 - INFO - logging in using static token
+2023-08-28 18:43:53,525 - INFO - Shard ID None has connected to Gateway (Session ID: 53f86c84ecc7c0e22e4cac25754c2eb6).
+2023-08-28 18:43:55,613 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:44:02,676 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:44:02,676 - ERROR - parameters are of unsupported type
+2023-08-28 18:44:15,685 - INFO - logging in using static token
+2023-08-28 18:44:16,564 - INFO - Shard ID None has connected to Gateway (Session ID: 86b69704d0c28e24712f597d5dbe2d63).
+2023-08-28 18:44:18,619 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:44:21,705 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:44:21,705 - ERROR - Incorrect number of bindings supplied. The current statement uses 1, and there are 2 supplied.
+2023-08-28 18:46:24,536 - INFO - logging in using static token
+2023-08-28 18:46:25,392 - INFO - Shard ID None has connected to Gateway (Session ID: a2285bd81761e6d38d171f9d41c3cab8).
+2023-08-28 18:46:27,421 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:46:30,943 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:47:34,900 - INFO - logging in using static token
+2023-08-28 18:47:35,765 - INFO - Shard ID None has connected to Gateway (Session ID: 8ea5185ab4ceac78d50f58645049591a).
+2023-08-28 18:47:37,805 - INFO - Darkinia#7043 is now running!
+2023-08-28 18:47:42,097 - INFO - Message sent by ke_rina_ : "?create user 646621782647767051" [ id: 286201593404194816 ]
+2023-08-28 18:50:15,423 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-08-28 19:16:53,358 - INFO - Shard ID None session has been invalidated.
+2023-08-28 19:16:59,025 - INFO - Shard ID None has connected to Gateway (Session ID: e720a31b4cab1bebc7f266578b88efd0).
+2023-08-28 19:17:01,065 - INFO - Darkinia#7043 is now running!
+2023-09-02 21:31:11,155 - INFO - logging in using static token
+2023-09-02 21:31:12,314 - INFO - Shard ID None has connected to Gateway (Session ID: 36e185444bb1a157b45a0f585d45f322).
+2023-09-02 21:31:14,349 - INFO - Darkinia#7043 is now running!
+2023-09-02 21:31:24,494 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-02 21:31:31,047 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-02 21:31:35,163 - INFO - Message sent by ke_rina_ : "?all" [ id: 286201593404194816 ]
+2023-09-02 21:32:01,876 - INFO - Message sent by ke_rina_ : "?champs" [ id: 286201593404194816 ]
+2023-09-02 21:34:20,206 - INFO - logging in using static token
+2023-09-02 21:34:21,234 - INFO - Shard ID None has connected to Gateway (Session ID: eaa683d469c642557ee5f9d0cab4a4cb).
+2023-09-02 21:34:23,335 - INFO - Darkinia#7043 is now running!
+2023-09-02 21:34:27,643 - INFO - Message sent by ke_rina_ : "?champs" [ id: 286201593404194816 ]
+2023-09-02 21:34:27,644 - ERROR - string index out of range
+2023-09-02 21:42:37,125 - INFO - logging in using static token
+2023-09-02 21:42:38,054 - INFO - Shard ID None has connected to Gateway (Session ID: ec44b143f177b15b3e1327573be09324).
+2023-09-02 21:42:40,104 - INFO - Darkinia#7043 is now running!
+2023-09-02 21:42:49,554 - INFO - Message sent by ke_rina_ : "?champs" [ id: 286201593404194816 ]
+2023-09-02 21:44:14,737 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-02 21:44:22,559 - INFO - Message sent by ke_rina_ : "?point" [ id: 286201593404194816 ]
+2023-09-02 21:44:42,908 - INFO - Message sent by ke_rina_ : "?create user 323121558493200387" [ id: 286201593404194816 ]
+2023-09-02 21:44:45,596 - INFO - Message sent by ke_rina_ : "?all" [ id: 286201593404194816 ]
+2023-09-02 21:49:00,619 - INFO - Message sent by ke_rina_ : "?create champ Reis roi male adc dieu humain mana ranged france 2004 reis" [ id: 286201593404194816 ]
+2023-09-02 21:49:00,619 - ERROR - 'SimpleSQLiteDatabase' object has no attribute 'insert_item'
+2023-09-02 21:51:56,770 - INFO - logging in using static token
+2023-09-02 21:51:57,678 - INFO - Shard ID None has connected to Gateway (Session ID: 98922b292ec5473c5c43ef267ecd6f23).
+2023-09-02 21:51:59,733 - INFO - Darkinia#7043 is now running!
+2023-09-02 21:52:14,282 - INFO - Message sent by ke_rina_ : "?create champ Reis roi male adc dieu humain mana ranged france 2004 reis" [ id: 286201593404194816 ]
+2023-09-02 21:52:32,714 - INFO - Message sent by ke_rina_ : "?delete champ reis" [ id: 286201593404194816 ]
+2023-09-02 21:52:32,714 - ERROR - 'SimpleSQLiteDatabase' object has no attribute 'delete_item_by_name'
+2023-09-02 21:53:05,592 - INFO - logging in using static token
+2023-09-02 21:53:06,530 - INFO - Shard ID None has connected to Gateway (Session ID: f1e649ea8dcd9bb2c30c621d4c2a2240).
+2023-09-02 21:53:08,587 - INFO - Darkinia#7043 is now running!
+2023-09-02 21:53:21,666 - INFO - Message sent by ke_rina_ : "?delete champ reis" [ id: 286201593404194816 ]
+2023-09-02 21:53:42,550 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-02 21:53:54,226 - INFO - Message sent by ke_rina_ : "?all" [ id: 286201593404194816 ]
+2023-09-02 21:54:03,031 - INFO - Message sent by ke_rina_ : "?ahri" [ id: 286201593404194816 ]
+2023-09-02 21:57:13,958 - INFO - Message sent by ke_rina_ : "?update point 286201593404194816 1000" [ id: 286201593404194816 ]
+2023-09-02 21:57:13,964 - ERROR - unsupported operand type(s) for +: 'Embed' and 'str'
+2023-09-03 17:11:03,610 - ERROR - Attempting a reconnect in 1.69s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-03 17:11:05,528 - ERROR - Attempting a reconnect in 0.01s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-03 17:11:05,561 - ERROR - Attempting a reconnect in 2.78s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-03 17:11:08,356 - ERROR - Attempting a reconnect in 7.25s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-03 17:11:15,916 - INFO - Shard ID None session has been invalidated.
+2023-09-03 17:11:21,549 - INFO - Shard ID None has connected to Gateway (Session ID: e0b5031bf893ec91b1b7c0a808c97fa1).
+2023-09-03 17:11:23,557 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:12:28,148 - INFO - Shard ID None has successfully RESUMED session e0b5031bf893ec91b1b7c0a808c97fa1.
+2023-09-03 17:23:59,241 - INFO - logging in using static token
+2023-09-03 17:24:00,088 - INFO - Shard ID None has connected to Gateway (Session ID: 2c07f216def09dc8a57c09c9f8e3f51d).
+2023-09-03 17:24:02,106 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:24:04,814 - INFO - Message sent by ke_rina_ : "?hello" [ id: 286201593404194816 ]
+2023-09-03 17:24:07,690 - INFO - Message sent by ke_rina_ : "?info" [ id: 286201593404194816 ]
+2023-09-03 17:24:15,229 - INFO - Message sent by ke_rina_ : "?all" [ id: 286201593404194816 ]
+2023-09-03 17:24:49,036 - INFO - Message sent by ke_rina_ : "?user" [ id: 286201593404194816 ]
+2023-09-03 17:24:56,384 - INFO - Message sent by ke_rina_ : "?hues" [ id: 286201593404194816 ]
+2023-09-03 17:25:01,476 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 17:25:16,235 - INFO - Message sent by ke_rina_ : "?ahri" [ id: 286201593404194816 ]
+2023-09-03 17:25:23,758 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-03 17:25:50,691 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia\bot.py", line 74, in on_message
+    if user_message[0] == '?':
+IndexError: string index out of range
+2023-09-03 17:26:03,834 - INFO - Message sent by ke_rina_ : "?pouet" [ id: 286201593404194816 ]
+2023-09-03 17:26:23,407 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-03 17:26:50,219 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-03 17:26:54,307 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-03 17:27:00,175 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia\bot.py", line 74, in on_message
+    if user_message[0] == '?':
+IndexError: string index out of range
+2023-09-03 17:27:12,661 - INFO - Message sent by ke_rina_ : "?point 286201593404194816" [ id: 286201593404194816 ]
+2023-09-03 17:27:20,396 - INFO - Message sent by ke_rina_ : "?point 646621782647767051" [ id: 286201593404194816 ]
+2023-09-03 17:27:20,397 - ERROR - 'SimpleSQLiteDatabase' object has no attribute 'get_balance_by_id'
+2023-09-03 17:29:08,396 - INFO - Message sent by ke_rina_ : "?all" [ id: 286201593404194816 ]
+2023-09-03 17:30:07,952 - INFO - logging in using static token
+2023-09-03 17:30:08,786 - INFO - Shard ID None has connected to Gateway (Session ID: 33a373bbad5b55386cdf62bd229aa8e8).
+2023-09-03 17:30:10,816 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:30:14,123 - INFO - Message sent by ke_rina_ : "?point 646621782647767051" [ id: 286201593404194816 ]
+2023-09-03 17:30:42,267 - INFO - Message sent by ke_rina_ : "?champs" [ id: 286201593404194816 ]
+2023-09-03 17:31:50,578 - INFO - logging in using static token
+2023-09-03 17:31:51,443 - INFO - Shard ID None has connected to Gateway (Session ID: cfdd408d0f646922df6ded82cb1216fd).
+2023-09-03 17:31:53,599 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:32:00,507 - INFO - Message sent by ke_rina_ : "?champs" [ id: 286201593404194816 ]
+2023-09-03 17:33:30,504 - INFO - Message sent by ke_rina_ : "?start ?stop ?guess et ?name_champ : a faire que ça marche ! avec le timer" [ id: 286201593404194816 ]
+2023-09-03 17:33:38,061 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia\bot.py", line 74, in on_message
+    if user_message[0] == '?':
+IndexError: string index out of range
+2023-09-03 17:51:33,806 - INFO - logging in using static token
+2023-09-03 17:51:34,777 - INFO - Shard ID None has connected to Gateway (Session ID: f5f5b40bd2f700829e889b7df9a589e7).
+2023-09-03 17:51:36,803 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:51:44,874 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-03 17:52:32,986 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 17:52:41,927 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-03 17:53:46,767 - INFO - logging in using static token
+2023-09-03 17:53:47,557 - INFO - Shard ID None has connected to Gateway (Session ID: 64e2c5b5190a90732ba7311c6e3941a7).
+2023-09-03 17:53:49,584 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:53:53,226 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-03 17:54:05,762 - INFO - logging in using static token
+2023-09-03 17:54:06,653 - INFO - Shard ID None has connected to Gateway (Session ID: d7f7ff19d21c6a69df68433bcd0509f1).
+2023-09-03 17:54:08,694 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:54:11,371 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-03 17:55:42,748 - INFO - logging in using static token
+2023-09-03 17:55:43,635 - INFO - Shard ID None has connected to Gateway (Session ID: ae35282eef21e8a73eef4248b3da2375).
+2023-09-03 17:55:45,660 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:55:47,146 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-03 17:55:56,443 - INFO - logging in using static token
+2023-09-03 17:55:57,279 - INFO - Shard ID None has connected to Gateway (Session ID: a75ec3e151f51ed080f835317b479efb).
+2023-09-03 17:55:59,314 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:56:28,917 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 17:56:35,348 - INFO - Message sent by ke_rina_ : "?ahri" [ id: 286201593404194816 ]
+2023-09-03 17:56:42,230 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-03 17:56:54,570 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 17:56:54,570 - ERROR - can only concatenate str (not "int") to str
+2023-09-03 17:57:56,859 - INFO - logging in using static token
+2023-09-03 17:57:57,750 - INFO - Shard ID None has connected to Gateway (Session ID: 19b50377dcc3ee8839cb4eb8448d2766).
+2023-09-03 17:57:59,779 - INFO - Darkinia#7043 is now running!
+2023-09-03 17:59:11,525 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-03 17:59:37,954 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 17:59:37,954 - ERROR - can only concatenate str (not "int") to str
+2023-09-03 18:02:39,007 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 18:02:46,523 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 18:04:49,657 - INFO - Message sent by ke_rina_ : "?gwe" [ id: 286201593404194816 ]
+2023-09-03 18:05:23,580 - INFO - Message sent by ke_rina_ : "?g name_champ" [ id: 286201593404194816 ]
+2023-09-03 18:05:48,883 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-03 22:50:30,965 - INFO - logging in using static token
+2023-09-03 22:50:31,831 - INFO - Shard ID None has connected to Gateway (Session ID: 94f14c52df0b4c0cb97d5d19b22b11b0).
+2023-09-03 22:50:33,848 - INFO - Darkinia#7043 is now running!
+2023-09-03 22:50:43,823 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 22:50:53,294 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 22:50:59,808 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 22:51:07,451 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 22:51:07,452 - ERROR - guess_reponse() missing 1 required positional argument: 'id'
+2023-09-03 22:52:08,838 - INFO - logging in using static token
+2023-09-03 22:52:09,652 - INFO - Shard ID None has connected to Gateway (Session ID: e77a02c9bc3a7df29474c68f11e7f41c).
+2023-09-03 22:52:11,688 - INFO - Darkinia#7043 is now running!
+2023-09-03 22:52:17,747 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 22:52:23,448 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 22:52:28,361 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 22:52:28,362 - ERROR - Incorrect number of bindings supplied. The current statement uses 1, and there are 13 supplied.
+2023-09-03 23:00:07,732 - INFO - logging in using static token
+2023-09-03 23:00:08,728 - INFO - Shard ID None has connected to Gateway (Session ID: 35724c735d7a0e50f2263e8221c7d3f6).
+2023-09-03 23:00:10,794 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:00:17,154 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:00:21,147 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:00:21,148 - ERROR - Incorrect number of bindings supplied. The current statement uses 1, and there are 9 supplied.
+2023-09-03 23:00:48,059 - INFO - logging in using static token
+2023-09-03 23:00:49,041 - INFO - Shard ID None has connected to Gateway (Session ID: 477db3eae06969ce4458becaab6d5cd3).
+2023-09-03 23:00:51,086 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:00:55,758 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:01:01,184 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:01:01,185 - ERROR - Incorrect number of bindings supplied. The current statement uses 1, and there are 11 supplied.
+2023-09-03 23:03:32,743 - INFO - logging in using static token
+2023-09-03 23:03:33,496 - INFO - Shard ID None has connected to Gateway (Session ID: 05a6010f44bf995f7a27c9c76f521067).
+2023-09-03 23:03:35,519 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:04:09,420 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:04:13,321 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:04:13,321 - ERROR - can only concatenate str (not "NoneType") to str
+2023-09-03 23:04:18,483 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 23:04:29,870 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-03 23:04:33,996 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 23:04:40,891 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:04:45,994 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 23:04:56,097 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:04:56,097 - ERROR - can only concatenate str (not "NoneType") to str
+2023-09-03 23:06:44,687 - INFO - logging in using static token
+2023-09-03 23:06:46,753 - INFO - Shard ID None has connected to Gateway (Session ID: b5a50f2187c9dc864538e4c12b1f75e0).
+2023-09-03 23:06:48,791 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:06:54,213 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-03 23:06:58,899 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:07:02,399 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:07:02,400 - ERROR - [Errno 2] No such file or directory: 'pictures/None.png'
+2023-09-03 23:08:11,028 - INFO - logging in using static token
+2023-09-03 23:08:11,826 - INFO - Shard ID None has connected to Gateway (Session ID: acbabac76ee93d68313c15e1f2e6f1f3).
+2023-09-03 23:08:13,862 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:08:16,739 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:08:20,391 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:08:20,392 - ERROR - [Errno 2] No such file or directory: 'pictures/None.png'
+2023-09-03 23:10:22,638 - INFO - logging in using static token
+2023-09-03 23:10:23,453 - INFO - Shard ID None has connected to Gateway (Session ID: ff509c0a2b122c64456f04dccb43ce82).
+2023-09-03 23:10:25,493 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:11:24,962 - INFO - logging in using static token
+2023-09-03 23:11:25,716 - INFO - Shard ID None has connected to Gateway (Session ID: d985488ae5bd1e039c4ab624340ed604).
+2023-09-03 23:11:27,738 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:11:44,348 - INFO - logging in using static token
+2023-09-03 23:11:45,200 - INFO - Shard ID None has connected to Gateway (Session ID: 4c5f33c45aaa3e912954d68855483bef).
+2023-09-03 23:11:47,259 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:11:53,146 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:11:56,858 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:11:56,863 - ERROR - 'list' object has no attribute 'issubset'
+2023-09-03 23:12:37,905 - INFO - logging in using static token
+2023-09-03 23:12:38,695 - INFO - Shard ID None has connected to Gateway (Session ID: 6fea982248506096ce5624ceab8ced0a).
+2023-09-03 23:12:40,715 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:12:43,760 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:12:46,771 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:12:46,773 - ERROR - 'list' object has no attribute 'issubset'
+2023-09-03 23:14:07,982 - INFO - logging in using static token
+2023-09-03 23:14:08,801 - INFO - Shard ID None has connected to Gateway (Session ID: f16c22756a8fa9a471cb4862612c1286).
+2023-09-03 23:14:10,831 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:14:14,965 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:14:22,402 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:14:22,402 - ERROR - 'int' object has no attribute 'split'
+2023-09-03 23:14:57,783 - INFO - logging in using static token
+2023-09-03 23:14:58,500 - INFO - Shard ID None has connected to Gateway (Session ID: d4334a46c2b93da7f5475fcfd495068d).
+2023-09-03 23:15:00,518 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:15:12,968 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:15:18,047 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:15:18,047 - ERROR - 'int' object has no attribute 'split'
+2023-09-03 23:15:54,571 - INFO - logging in using static token
+2023-09-03 23:15:55,271 - INFO - Shard ID None has connected to Gateway (Session ID: bb115da9d02d90ec55f46d25aee6a181).
+2023-09-03 23:15:57,303 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:16:26,358 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:16:31,772 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:16:31,773 - ERROR - 'int' object has no attribute 'split'
+2023-09-03 23:16:54,846 - INFO - logging in using static token
+2023-09-03 23:16:55,643 - INFO - Shard ID None has connected to Gateway (Session ID: d079575385cba82e04529d578106b16c).
+2023-09-03 23:16:57,677 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:17:02,633 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:17:06,445 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:17:06,446 - ERROR - 'int' object has no attribute 'split'
+2023-09-03 23:17:40,239 - INFO - logging in using static token
+2023-09-03 23:17:41,107 - INFO - Shard ID None has connected to Gateway (Session ID: 4f37fc25cb0b2b2573c4a0f4af4aa763).
+2023-09-03 23:17:43,133 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:17:51,750 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:17:54,971 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:17:54,972 - ERROR - can only concatenate str (not "int") to str
+2023-09-03 23:18:27,079 - INFO - logging in using static token
+2023-09-03 23:18:27,838 - INFO - Shard ID None has connected to Gateway (Session ID: 4936c6390a9c698ec598763aea2d74ed).
+2023-09-03 23:18:29,867 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:18:34,177 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:18:37,700 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:18:37,701 - ERROR - list index out of range
+2023-09-03 23:24:05,325 - INFO - logging in using static token
+2023-09-03 23:24:06,160 - INFO - Shard ID None has connected to Gateway (Session ID: 7b31f63e17e945b74a1c2b5e7b692648).
+2023-09-03 23:24:08,195 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:24:12,077 - INFO - Message sent by ke_rina_ : "?start 2" [ id: 286201593404194816 ]
+2023-09-03 23:24:15,344 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:24:15,344 - ERROR - list index out of range
+2023-09-03 23:25:10,854 - INFO - logging in using static token
+2023-09-03 23:25:11,665 - INFO - Shard ID None has connected to Gateway (Session ID: ae039945ae17a6e3e7341220aff692d9).
+2023-09-03 23:25:13,702 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:25:19,832 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-03 23:25:19,833 - ERROR - can only concatenate str (not "int") to str
+2023-09-03 23:25:47,919 - INFO - logging in using static token
+2023-09-03 23:25:48,689 - INFO - Shard ID None has connected to Gateway (Session ID: c652390bdfe7efc28460bbf263bc50b7).
+2023-09-03 23:25:50,703 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:25:53,155 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-03 23:25:57,147 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:25:57,147 - ERROR - list index out of range
+2023-09-03 23:27:04,116 - INFO - logging in using static token
+2023-09-03 23:27:04,812 - INFO - Shard ID None has connected to Gateway (Session ID: d364ab65f8e818ac7592e7d0c32d9706).
+2023-09-03 23:27:06,839 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:27:11,737 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-03 23:27:15,174 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:27:15,175 - ERROR - list index out of range
+2023-09-03 23:27:44,677 - INFO - logging in using static token
+2023-09-03 23:27:45,396 - INFO - Shard ID None has connected to Gateway (Session ID: 2956558e590d9cb8d96db4fdf6db493d).
+2023-09-03 23:27:47,429 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:27:52,316 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-03 23:27:55,543 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:28:20,837 - INFO - logging in using static token
+2023-09-03 23:28:21,559 - INFO - Shard ID None has connected to Gateway (Session ID: 86e3ec4c7ca84fec06ad89ced45355da).
+2023-09-03 23:28:23,582 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:28:25,833 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-03 23:28:29,557 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:34:54,574 - INFO - logging in using static token
+2023-09-03 23:34:55,357 - INFO - Shard ID None has connected to Gateway (Session ID: af2ce07a306f9c3d3f742eb49afec75b).
+2023-09-03 23:34:57,380 - INFO - Darkinia#7043 is now running!
+2023-09-03 23:35:01,117 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-03 23:35:04,198 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-03 23:45:29,205 - INFO - Shard ID None has successfully RESUMED session af2ce07a306f9c3d3f742eb49afec75b.
+2023-09-04 02:58:09,813 - INFO - Shard ID None session has been invalidated.
+2023-09-04 02:58:15,325 - INFO - Shard ID None has connected to Gateway (Session ID: c8a5809971604d6efa899ffbdd80a632).
+2023-09-04 02:58:17,334 - INFO - Darkinia#7043 is now running!
+2023-09-04 02:58:51,320 - ERROR - Attempting a reconnect in 1.98s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 1025, in create_connection
+    raise exceptions[0]
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 1010, in create_connection
+    sock = await self._connect_sock(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 924, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Program Files\Python38\lib\asyncio\proactor_events.py", line 702, in sock_connect
+    return await self._proactor.connect(sock, address)
+  File "C:\Program Files\Python38\lib\asyncio\windows_events.py", line 808, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Program Files\Python38\lib\asyncio\windows_events.py", line 595, in finish_connect
+    ov.getresult()
+FileNotFoundError: [WinError 53] Le chemin réseau n’a pas été trouvé
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1209, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1178, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [Le chemin réseau n’a pas été trouvé]
+2023-09-04 07:57:50,501 - ERROR - Attempting a reconnect in 1.87s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 490, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+2023-09-04 07:57:53,664 - INFO - Shard ID None session has been invalidated.
+2023-09-04 07:57:59,190 - INFO - Shard ID None has connected to Gateway (Session ID: 12905746c14c40428adcd1d9c70958e9).
+2023-09-04 07:58:01,218 - INFO - Darkinia#7043 is now running!
+2023-09-04 08:06:40,019 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-04 08:06:45,313 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-04 08:06:58,033 - INFO - Message sent by ke_rina_ : "?g leblanc" [ id: 286201593404194816 ]
+2023-09-04 08:07:11,359 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-04 08:07:21,392 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-04 08:46:14,170 - INFO - Shard ID None has successfully RESUMED session 12905746c14c40428adcd1d9c70958e9.
+2023-09-04 08:59:28,081 - WARNING - Can't keep up, shard ID None websocket is 10.1s behind.
+2023-09-04 09:00:59,804 - INFO - Shard ID None has successfully RESUMED session 12905746c14c40428adcd1d9c70958e9.
+2023-09-04 09:13:46,927 - INFO - Shard ID None session has been invalidated.
+2023-09-04 09:13:52,663 - INFO - Shard ID None has connected to Gateway (Session ID: 53175ba1de96cd568f535333c371617d).
+2023-09-04 09:13:54,688 - INFO - Darkinia#7043 is now running!
+2023-09-04 09:22:14,583 - WARNING - Can't keep up, shard ID None websocket is 12.2s behind.
+2023-09-04 12:09:06,677 - INFO - Shard ID None has successfully RESUMED session 53175ba1de96cd568f535333c371617d.
+2023-09-04 12:18:08,739 - INFO - Shard ID None has successfully RESUMED session 53175ba1de96cd568f535333c371617d.
+2023-09-04 12:47:03,481 - INFO - Shard ID None session has been invalidated.
+2023-09-04 12:47:09,048 - INFO - Shard ID None has connected to Gateway (Session ID: 374a8b38bb1960bed57439e90b054618).
+2023-09-04 12:47:11,085 - INFO - Darkinia#7043 is now running!
+2023-09-04 12:54:49,862 - ERROR - Attempting a reconnect in 1.88s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 12:54:52,051 - INFO - Shard ID None has successfully RESUMED session 374a8b38bb1960bed57439e90b054618.
+2023-09-04 13:45:39,611 - INFO - Shard ID None has successfully RESUMED session 374a8b38bb1960bed57439e90b054618.
+2023-09-04 17:46:10,991 - ERROR - Attempting a reconnect in 0.39s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 17:46:11,395 - ERROR - Attempting a reconnect in 3.33s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 17:46:14,728 - ERROR - Attempting a reconnect in 5.82s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 17:46:20,555 - ERROR - Attempting a reconnect in 15.18s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 17:46:35,735 - ERROR - Attempting a reconnect in 7.54s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 17:46:43,536 - INFO - Shard ID None session has been invalidated.
+2023-09-04 23:16:18,326 - WARNING - Can't keep up, shard ID None websocket is 19777.7s behind.
+2023-09-04 23:16:18,330 - ERROR - Attempting a reconnect in 0.95s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 23:16:19,295 - ERROR - Attempting a reconnect in 2.67s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-04 23:16:22,260 - INFO - Shard ID None session has been invalidated.
+2023-09-04 23:16:27,895 - INFO - Shard ID None has connected to Gateway (Session ID: 3bb5680c9482fe9fd0eb66a5eee375eb).
+2023-09-04 23:16:29,930 - INFO - Darkinia#7043 is now running!
+2023-09-05 08:56:01,388 - ERROR - Attempting a reconnect in 1.75s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Program Files\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Program Files\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Program Files\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Program Files\Python38\lib\asyncio\tasks.py", line 483, in wait_for
+    return fut.result()
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\keren\Documents\PycharmProjects\FridgeFund\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-05 08:56:03,450 - INFO - Shard ID None session has been invalidated.
+2023-09-05 08:56:09,007 - INFO - Shard ID None has connected to Gateway (Session ID: 50a0b09901aa42d5fdccc5b9a19338e2).
+2023-09-05 08:56:11,039 - INFO - Darkinia#7043 is now running!
+2023-09-12 20:16:07,623 - INFO - logging in using static token
+2023-09-12 20:16:08,727 - INFO - Shard ID None has connected to Gateway (Session ID: 96fdfae29294ad4c92b6615956be5def).
+2023-09-12 20:16:10,755 - INFO - Darkinia#7043 is now running!
+2023-09-12 20:16:30,065 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-12 20:16:35,807 - INFO - Message sent by ke_rina_ : "?huess" [ id: 286201593404194816 ]
+2023-09-12 20:16:38,590 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-12 20:16:44,551 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-12 20:17:20,861 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-12 20:17:28,668 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-12 20:17:35,234 - INFO - Message sent by ke_rina_ : "?viktor" [ id: 286201593404194816 ]
+2023-09-12 20:17:42,284 - INFO - Message sent by ke_rina_ : "?victor" [ id: 286201593404194816 ]
+2023-09-12 20:17:49,322 - INFO - Message sent by ke_rina_ : "?g viktor" [ id: 286201593404194816 ]
+2023-09-12 20:19:28,997 - INFO - logging in using static token
+2023-09-12 20:19:29,932 - INFO - Shard ID None has connected to Gateway (Session ID: b2d844d7cacda2fb91f8edc70f2ec930).
+2023-09-12 20:19:31,984 - INFO - Darkinia#7043 is now running!
+2023-09-12 20:19:34,647 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-12 20:19:39,386 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-12 20:20:09,174 - INFO - logging in using static token
+2023-09-12 20:20:10,056 - INFO - Shard ID None has connected to Gateway (Session ID: c7efffd5566c5ffacb14774068d7d985).
+2023-09-12 20:20:12,075 - INFO - Darkinia#7043 is now running!
+2023-09-12 20:20:16,972 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-12 20:20:22,684 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-12 20:20:51,435 - INFO - Message sent by ke_rina_ : "?g sivir" [ id: 286201593404194816 ]
+2023-09-12 20:24:03,020 - INFO - Message sent by ke_rina_ : "?g karma" [ id: 286201593404194816 ]
+2023-09-12 20:26:22,462 - INFO - Message sent by ke_rina_ : "?g zyra" [ id: 286201593404194816 ]
+2023-09-12 20:27:02,254 - INFO - Message sent by ke_rina_ : "?g soraka" [ id: 286201593404194816 ]
+2023-09-12 20:27:46,925 - INFO - Message sent by ke_rina_ : "?g seraphine" [ id: 286201593404194816 ]
+2023-09-12 20:27:52,472 - ERROR - database is locked
+2023-09-12 20:28:02,858 - INFO - Message sent by ke_rina_ : "?sera" [ id: 286201593404194816 ]
+2023-09-12 20:28:08,396 - INFO - Message sent by ke_rina_ : "?g sera" [ id: 286201593404194816 ]
+2023-09-12 20:28:20,169 - INFO - Message sent by ke_rina_ : "?g Seraphine" [ id: 286201593404194816 ]
+2023-09-12 20:28:25,731 - ERROR - database is locked
+2023-09-12 20:28:33,312 - INFO - logging in using static token
+2023-09-12 20:28:34,186 - INFO - Shard ID None has connected to Gateway (Session ID: 7c46c24811839487237fcf9803c648cf).
+2023-09-12 20:28:36,212 - INFO - Darkinia#7043 is now running!
+2023-09-12 20:28:39,703 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-12 20:28:43,445 - INFO - Message sent by ke_rina_ : "?g Seraphine" [ id: 286201593404194816 ]
+2023-09-12 20:29:11,315 - INFO - Message sent by ke_rina_ : "?g annie" [ id: 286201593404194816 ]
+2023-09-12 20:29:21,768 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-12 20:30:06,612 - INFO - Message sent by ke_rina_ : "?g syndra" [ id: 286201593404194816 ]
+2023-09-12 20:30:12,151 - ERROR - database is locked
+2023-09-12 20:30:15,888 - INFO - Message sent by ke_rina_ : "?g wukong" [ id: 286201593404194816 ]
+2023-09-12 20:30:20,738 - INFO - Message sent by ke_rina_ : "?g syndra" [ id: 286201593404194816 ]
+2023-09-12 20:30:26,270 - ERROR - database is locked
+2023-09-12 20:30:40,946 - INFO - Message sent by ke_rina_ : "?g syndra" [ id: 286201593404194816 ]
+2023-09-12 20:30:52,613 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-12 20:31:00,701 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-12 20:31:04,027 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-12 20:31:09,079 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-12 20:31:20,161 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-12 20:31:52,814 - INFO - Message sent by ke_rina_ : "?g trundle" [ id: 286201593404194816 ]
+2023-09-12 20:32:43,793 - INFO - logging in using static token
+2023-09-12 20:32:44,570 - INFO - Shard ID None has connected to Gateway (Session ID: 95b0fd72b54414ad859bd88e19fedc57).
+2023-09-12 20:32:46,696 - INFO - Darkinia#7043 is now running!
+2023-09-12 20:32:52,548 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-12 20:32:57,680 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-12 20:33:15,624 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-12 20:33:48,824 - INFO - Message sent by ke_rina_ : "?g trundle" [ id: 286201593404194816 ]
+2023-09-12 20:49:35,423 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-12 20:49:40,893 - INFO - Message sent by ke_rina_ : "?point" [ id: 286201593404194816 ]
+2023-09-12 21:00:50,660 - INFO - logging in using static token
+2023-09-12 21:00:51,539 - INFO - Shard ID None has connected to Gateway (Session ID: 4a7f8c9bdfb106a1cc7b0125ee303555).
+2023-09-12 21:00:53,571 - INFO - Darkinia#7043 is now running!
+2023-09-12 21:01:13,892 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-12 21:01:21,760 - INFO - Message sent by ke_rina_ : "?start 0.1" [ id: 286201593404194816 ]
+2023-09-12 21:01:38,573 - INFO - Message sent by ke_rina_ : "?start 1" [ id: 286201593404194816 ]
+2023-09-12 21:01:42,037 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-12 21:01:49,477 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-12 21:01:58,444 - INFO - Message sent by ke_rina_ : "?g kassadin" [ id: 286201593404194816 ]
+2023-09-12 21:02:35,211 - INFO - Message sent by ke_rina_ : "?g bli" [ id: 286201593404194816 ]
+2023-09-12 21:03:01,223 - INFO - Message sent by ke_rina_ : "?g blitzcrank" [ id: 286201593404194816 ]
+2023-09-12 21:04:14,881 - INFO - Message sent by ke_rina_ : "?g viktor" [ id: 286201593404194816 ]
+2023-09-12 21:04:31,635 - INFO - Message sent by ke_rina_ : "?g lucian" [ id: 286201593404194816 ]
+2023-09-12 21:05:14,885 - INFO - Message sent by ke_rina_ : "?g Kindred" [ id: 286201593404194816 ]
+2023-09-12 21:07:04,710 - INFO - Message sent by ke_rina_ : "?point" [ id: 286201593404194816 ]
+2023-09-12 21:09:19,252 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 11:04:01,246 - INFO - logging in using static token
+2023-09-14 11:04:02,386 - INFO - Shard ID None has connected to Gateway (Session ID: b3a237f17dbeb5ac00dc639e48163406).
+2023-09-14 11:04:04,409 - INFO - Darkinia#7043 is now running!
+2023-09-14 11:45:47,629 - INFO - logging in using static token
+2023-09-14 11:45:48,642 - INFO - Shard ID None has connected to Gateway (Session ID: 2e0808bb34f03d4a2bce19fde19a74cc).
+2023-09-14 11:45:50,671 - INFO - Darkinia#7043 is now running!
+2023-09-14 16:40:53,060 - INFO - logging in using static token
+2023-09-14 16:40:53,880 - INFO - Shard ID None has connected to Gateway (Session ID: eed71ae60390d698b66272f426d44e44).
+2023-09-14 16:40:55,907 - INFO - Darkinia#7043 is now running!
+2023-09-14 16:41:04,674 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 16:41:17,844 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 16:41:21,919 - INFO - Message sent by ke_rina_ : "?g ah" [ id: 286201593404194816 ]
+2023-09-14 16:42:14,483 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-14 16:42:22,551 - INFO - Message sent by ke_rina_ : "?help bureau" [ id: 286201593404194816 ]
+2023-09-14 16:45:15,475 - INFO - logging in using static token
+2023-09-14 16:45:16,498 - INFO - Shard ID None has connected to Gateway (Session ID: 31976042a0f563b3fe57d6ad7579e118).
+2023-09-14 16:45:18,534 - INFO - Darkinia#7043 is now running!
+2023-09-14 16:45:23,305 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 16:45:25,318 - INFO - Message sent by ke_rina_ : "?g ah" [ id: 286201593404194816 ]
+2023-09-14 16:45:37,590 - INFO - Message sent by ke_rina_ : "?g aa" [ id: 286201593404194816 ]
+2023-09-14 16:45:41,704 - INFO - Message sent by ke_rina_ : "?g a" [ id: 286201593404194816 ]
+2023-09-14 16:46:08,001 - INFO - logging in using static token
+2023-09-14 16:46:08,827 - INFO - Shard ID None has connected to Gateway (Session ID: 58e5fd4bbed96bbd728c7ec7dbd17370).
+2023-09-14 16:46:10,858 - INFO - Darkinia#7043 is now running!
+2023-09-14 16:46:18,489 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 16:46:21,432 - INFO - Message sent by ke_rina_ : "?g a" [ id: 286201593404194816 ]
+2023-09-14 16:46:38,550 - INFO - Message sent by ke_rina_ : "?g h" [ id: 286201593404194816 ]
+2023-09-14 17:09:01,821 - INFO - logging in using static token
+2023-09-14 17:09:03,598 - INFO - Shard ID None has connected to Gateway (Session ID: a845869f7e91e3b31161b57a9b0e2343).
+2023-09-14 17:09:05,624 - INFO - Darkinia#7043 is now running!
+2023-09-14 17:09:09,058 - INFO - Message sent by ke_rina_ : "?gues" [ id: 286201593404194816 ]
+2023-09-14 17:09:14,962 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 17:09:18,648 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 17:09:48,931 - INFO - Message sent by ke_rina_ : "?info" [ id: 286201593404194816 ]
+2023-09-14 17:09:52,255 - INFO - Message sent by ke_rina_ : "?help" [ id: 286201593404194816 ]
+2023-09-14 17:10:02,617 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 17:10:08,734 - INFO - Message sent by ke_rina_ : "?lucian" [ id: 286201593404194816 ]
+2023-09-14 17:10:12,031 - INFO - Message sent by ke_rina_ : "?g lucian" [ id: 286201593404194816 ]
+2023-09-14 17:10:20,263 - INFO - Message sent by ke_rina_ : "?g draven" [ id: 286201593404194816 ]
+2023-09-14 17:10:27,321 - INFO - Message sent by ke_rina_ : "?g jhin" [ id: 286201593404194816 ]
+2023-09-14 17:11:02,651 - INFO - Message sent by ke_rina_ : "?g ezreal" [ id: 286201593404194816 ]
+2023-09-14 17:11:11,275 - INFO - Message sent by ke_rina_ : "?g jayce" [ id: 286201593404194816 ]
+2023-09-14 17:12:19,336 - INFO - Message sent by ke_rina_ : "?g Corki" [ id: 286201593404194816 ]
+2023-09-14 17:12:24,863 - ERROR - database is locked
+2023-09-14 17:12:24,864 - INFO - Message sent by ke_rina_ : "?corki" [ id: 286201593404194816 ]
+2023-09-14 17:12:33,270 - INFO - Message sent by ke_rina_ : "?g corki" [ id: 286201593404194816 ]
+2023-09-14 17:12:38,617 - INFO - Message sent by ke_rina_ : "?g jayce" [ id: 286201593404194816 ]
+2023-09-14 17:12:42,352 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-14 17:12:46,789 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 17:12:50,580 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 17:13:02,061 - INFO - logging in using static token
+2023-09-14 17:13:02,960 - INFO - Shard ID None has connected to Gateway (Session ID: c9c8a43d29764484f6910a6993f69e2e).
+2023-09-14 17:13:05,001 - INFO - Darkinia#7043 is now running!
+2023-09-14 17:13:07,160 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 17:13:13,194 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 17:13:20,328 - INFO - Message sent by ke_rina_ : "?g senna" [ id: 286201593404194816 ]
+2023-09-14 17:13:37,130 - INFO - Message sent by ke_rina_ : "?g seraphine" [ id: 286201593404194816 ]
+2023-09-14 17:13:45,629 - INFO - Message sent by ke_rina_ : "?g janna" [ id: 286201593404194816 ]
+2023-09-14 17:13:53,485 - INFO - Message sent by ke_rina_ : "?g shyvana" [ id: 286201593404194816 ]
+2023-09-14 17:13:59,147 - INFO - Message sent by ke_rina_ : "?g vi" [ id: 286201593404194816 ]
+2023-09-14 17:14:11,583 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 17:19:56,784 - INFO - logging in using static token
+2023-09-14 17:19:57,706 - INFO - Shard ID None has connected to Gateway (Session ID: 279e9a9197129cc1b21e860b0c2a348c).
+2023-09-14 17:19:59,735 - INFO - Darkinia#7043 is now running!
+2023-09-14 17:51:48,985 - ERROR - Attempting a reconnect in 1.63s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 17:51:50,688 - ERROR - Attempting a reconnect in 1.91s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 17:51:52,611 - ERROR - Attempting a reconnect in 0.33s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 17:51:52,952 - ERROR - Attempting a reconnect in 1.93s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 17:51:54,898 - ERROR - Attempting a reconnect in 30.87s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 17:52:26,028 - INFO - Shard ID None has successfully RESUMED session 279e9a9197129cc1b21e860b0c2a348c.
+2023-09-14 18:28:29,322 - INFO - Shard ID None has successfully RESUMED session 279e9a9197129cc1b21e860b0c2a348c.
+2023-09-14 19:19:24,956 - INFO - logging in using static token
+2023-09-14 19:19:26,407 - INFO - Shard ID None has connected to Gateway (Session ID: 7675589407baaa364bdf30f0bb387b40).
+2023-09-14 19:19:28,461 - INFO - Darkinia#7043 is now running!
+2023-09-14 19:20:02,795 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 19:20:07,877 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 19:20:16,160 - INFO - Message sent by ke_rina_ : "?g zed" [ id: 286201593404194816 ]
+2023-09-14 19:20:24,014 - INFO - Message sent by ke_rina_ : "?g graves" [ id: 286201593404194816 ]
+2023-09-14 19:20:45,183 - INFO - Message sent by ke_rina_ : "?g shen" [ id: 286201593404194816 ]
+2023-09-14 19:20:52,557 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 19:23:41,317 - INFO - logging in using static token
+2023-09-14 19:23:42,171 - INFO - Shard ID None has connected to Gateway (Session ID: 3977048cb49331c46e070da9e7fd804b).
+2023-09-14 19:23:44,206 - INFO - Darkinia#7043 is now running!
+2023-09-14 19:23:49,130 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 19:23:54,999 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 19:24:01,188 - INFO - Message sent by ke_rina_ : "?g sivir" [ id: 286201593404194816 ]
+2023-09-14 19:24:08,573 - INFO - Message sent by ke_rina_ : "?g samira" [ id: 286201593404194816 ]
+2023-09-14 19:24:17,376 - INFO - Message sent by ke_rina_ : "?g sa" [ id: 286201593404194816 ]
+2023-09-14 19:24:22,460 - INFO - Message sent by ke_rina_ : "?g sivir" [ id: 286201593404194816 ]
+2023-09-14 19:24:28,991 - INFO - Message sent by ke_rina_ : "?g a" [ id: 286201593404194816 ]
+2023-09-14 19:24:33,374 - INFO - Message sent by ke_rina_ : "?info" [ id: 286201593404194816 ]
+2023-09-14 19:24:39,186 - INFO - Message sent by ke_rina_ : "?g sam" [ id: 286201593404194816 ]
+2023-09-14 19:27:04,217 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 19:30:04,246 - INFO - logging in using static token
+2023-09-14 19:30:05,280 - INFO - Shard ID None has connected to Gateway (Session ID: 0ce17b526500a2403121a9bb83b45f27).
+2023-09-14 19:30:07,316 - INFO - Darkinia#7043 is now running!
+2023-09-14 19:30:14,636 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 19:30:17,444 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 19:30:23,417 - INFO - Message sent by ke_rina_ : "?g qu" [ id: 286201593404194816 ]
+2023-09-14 19:30:26,975 - INFO - Message sent by ke_rina_ : "?g q" [ id: 286201593404194816 ]
+2023-09-14 19:30:38,850 - INFO - Message sent by ke_rina_ : "?g Qiyana" [ id: 286201593404194816 ]
+2023-09-14 19:31:26,930 - INFO - Message sent by ke_rina_ : "?g ireli" [ id: 286201593404194816 ]
+2023-09-14 19:31:31,614 - INFO - Message sent by ke_rina_ : "?g irelia" [ id: 286201593404194816 ]
+2023-09-14 19:31:41,501 - INFO - Message sent by ke_rina_ : "?g riven" [ id: 286201593404194816 ]
+2023-09-14 19:31:48,583 - INFO - Message sent by ke_rina_ : "?g sona" [ id: 286201593404194816 ]
+2023-09-14 19:31:54,239 - INFO - Message sent by ke_rina_ : "?g soraka" [ id: 286201593404194816 ]
+2023-09-14 19:31:59,768 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 19:31:59,768 - ERROR - 'datetime.timedelta' object has no attribute 'hour'
+2023-09-14 19:35:06,963 - INFO - logging in using static token
+2023-09-14 19:35:07,831 - INFO - Shard ID None has connected to Gateway (Session ID: 2dd8f039e3a157ec1f8f42c1c6d5c64f).
+2023-09-14 19:35:09,871 - INFO - Darkinia#7043 is now running!
+2023-09-14 19:35:15,583 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 19:35:19,561 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 19:35:24,863 - INFO - Message sent by ke_rina_ : "?g sivir" [ id: 286201593404194816 ]
+2023-09-14 19:35:30,401 - INFO - Message sent by ke_rina_ : "?g riven" [ id: 286201593404194816 ]
+2023-09-14 19:35:39,602 - INFO - Message sent by ke_rina_ : "?g qiyana" [ id: 286201593404194816 ]
+2023-09-14 19:35:53,392 - INFO - Message sent by ke_rina_ : "?g shyvana" [ id: 286201593404194816 ]
+2023-09-14 19:36:00,192 - INFO - Message sent by ke_rina_ : "?g vi" [ id: 286201593404194816 ]
+2023-09-14 19:38:02,897 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 19:38:02,897 - ERROR - 'module' object is not callable
+2023-09-14 19:38:34,691 - INFO - logging in using static token
+2023-09-14 19:38:35,718 - INFO - Shard ID None has connected to Gateway (Session ID: 4e5f3a872ac0999ecdb459e0f280c703).
+2023-09-14 19:38:37,737 - INFO - Darkinia#7043 is now running!
+2023-09-14 19:38:39,580 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 19:38:45,407 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 19:38:51,803 - INFO - Message sent by ke_rina_ : "?g sivir" [ id: 286201593404194816 ]
+2023-09-14 19:38:57,990 - INFO - Message sent by ke_rina_ : "?g riven" [ id: 286201593404194816 ]
+2023-09-14 19:39:04,166 - INFO - Message sent by ke_rina_ : "?g irelia" [ id: 286201593404194816 ]
+2023-09-14 19:39:15,554 - INFO - Message sent by ke_rina_ : "?g shyvana" [ id: 286201593404194816 ]
+2023-09-14 19:39:28,111 - INFO - Message sent by ke_rina_ : "?g sett" [ id: 286201593404194816 ]
+2023-09-14 19:39:31,689 - INFO - Message sent by ke_rina_ : "?g garen" [ id: 286201593404194816 ]
+2023-09-14 19:39:56,864 - INFO - Message sent by ke_rina_ : "?g darius" [ id: 286201593404194816 ]
+2023-09-14 19:40:12,294 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-14 19:40:40,648 - INFO - Message sent by ke_rina_ : "?g udyr" [ id: 286201593404194816 ]
+2023-09-14 19:40:50,218 - INFO - Message sent by ke_rina_ : "?g xinzhao" [ id: 286201593404194816 ]
+2023-09-14 19:40:55,483 - INFO - Message sent by ke_rina_ : "?g wukong" [ id: 286201593404194816 ]
+2023-09-14 19:41:00,950 - INFO - Message sent by ke_rina_ : "?g irelia" [ id: 286201593404194816 ]
+2023-09-14 19:41:13,505 - INFO - Message sent by ke_rina_ : "?g yasuo" [ id: 286201593404194816 ]
+2023-09-14 19:41:54,978 - INFO - Message sent by ke_rina_ : "?g ksante" [ id: 286201593404194816 ]
+2023-09-14 19:42:12,988 - INFO - Message sent by ke_rina_ : "?g nasus" [ id: 286201593404194816 ]
+2023-09-14 19:42:59,427 - INFO - Message sent by ke_rina_ : "?gues" [ id: 286201593404194816 ]
+2023-09-14 19:43:01,805 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 19:43:01,805 - ERROR - 'datetime.timedelta' object has no attribute 'hour'
+2023-09-14 19:43:05,784 - INFO - Message sent by ke_rina_ : "?info" [ id: 286201593404194816 ]
+2023-09-14 19:43:09,057 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 19:43:09,058 - ERROR - 'datetime.timedelta' object has no attribute 'hour'
+2023-09-14 19:45:44,455 - INFO - logging in using static token
+2023-09-14 19:45:45,431 - INFO - Shard ID None has connected to Gateway (Session ID: 6ed0a78f77b062c2f7061946c3dd2c2e).
+2023-09-14 19:45:47,441 - INFO - Darkinia#7043 is now running!
+2023-09-14 19:45:52,046 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 19:45:54,830 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 19:46:01,449 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-14 19:46:39,657 - INFO - Message sent by ke_rina_ : "?g syl" [ id: 286201593404194816 ]
+2023-09-14 19:46:43,182 - INFO - Message sent by ke_rina_ : "?g sylas" [ id: 286201593404194816 ]
+2023-09-14 19:47:07,540 - INFO - Message sent by ke_rina_ : "?g ryze" [ id: 286201593404194816 ]
+2023-09-14 20:05:21,187 - INFO - logging in using static token
+2023-09-14 20:05:22,196 - INFO - Shard ID None has connected to Gateway (Session ID: d3257d0b19d21a8db64c640adabcb513).
+2023-09-14 20:05:24,227 - INFO - Darkinia#7043 is now running!
+2023-09-14 20:05:33,258 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 20:05:36,065 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 20:06:07,674 - INFO - Message sent by ke_rina_ : "?g lablanc" [ id: 286201593404194816 ]
+2023-09-14 20:06:13,051 - INFO - Message sent by ke_rina_ : "?g leblanc" [ id: 286201593404194816 ]
+2023-09-14 20:06:36,335 - INFO - Message sent by ke_rina_ : "?g annie" [ id: 286201593404194816 ]
+2023-09-14 20:07:21,763 - INFO - Message sent by ke_rina_ : "?g anivia" [ id: 286201593404194816 ]
+2023-09-14 20:07:43,676 - INFO - Message sent by ke_rina_ : "?g nidalee" [ id: 286201593404194816 ]
+2023-09-14 20:07:49,377 - INFO - Message sent by ke_rina_ : "?g soraka" [ id: 286201593404194816 ]
+2023-09-14 20:08:12,903 - INFO - Message sent by ke_rina_ : "?g zyr" [ id: 286201593404194816 ]
+2023-09-14 20:08:16,440 - INFO - Message sent by ke_rina_ : "?g zyra" [ id: 286201593404194816 ]
+2023-09-14 20:08:22,168 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 20:10:46,872 - ERROR - Attempting a reconnect in 0.08s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 20:10:46,963 - ERROR - Attempting a reconnect in 0.24s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 20:10:47,213 - ERROR - Attempting a reconnect in 1.50s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 20:10:48,720 - ERROR - Attempting a reconnect in 8.47s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-14 20:10:57,484 - INFO - Shard ID None has successfully RESUMED session d3257d0b19d21a8db64c640adabcb513.
+2023-09-14 20:12:34,976 - INFO - logging in using static token
+2023-09-14 20:12:35,831 - INFO - Shard ID None has connected to Gateway (Session ID: 58a9a5df124e889d010bb28f7c3224ac).
+2023-09-14 20:12:37,859 - INFO - Darkinia#7043 is now running!
+2023-09-14 20:23:59,438 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 20:27:11,729 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 20:28:14,939 - INFO - logging in using static token
+2023-09-14 20:28:15,861 - INFO - Shard ID None has connected to Gateway (Session ID: c8adec41e2104db96c7cd59b1ea30417).
+2023-09-14 20:28:17,896 - INFO - Darkinia#7043 is now running!
+2023-09-14 21:27:20,223 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 21:27:25,001 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 21:27:25,002 - ERROR - unsupported operand type(s) for +: 'set' and 'str'
+2023-09-14 21:27:49,632 - INFO - logging in using static token
+2023-09-14 21:27:50,592 - INFO - Shard ID None has connected to Gateway (Session ID: aee1f4ab5d7e0ec9067c1e68c76b3685).
+2023-09-14 21:27:52,622 - INFO - Darkinia#7043 is now running!
+2023-09-14 21:27:55,288 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 21:27:58,241 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 21:28:51,282 - INFO - Message sent by ke_rina_ : "?g sivir" [ id: 286201593404194816 ]
+2023-09-14 21:29:11,037 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-14 21:51:58,347 - INFO - Shard ID None session has been invalidated.
+2023-09-14 21:52:04,067 - INFO - Shard ID None has connected to Gateway (Session ID: dd37480e038b9d332a421d661454541c).
+2023-09-14 21:52:06,099 - INFO - Darkinia#7043 is now running!
+2023-09-14 22:17:38,718 - INFO - logging in using static token
+2023-09-14 22:17:39,594 - INFO - Shard ID None has connected to Gateway (Session ID: b9463c66250430d2e2ef1cb26f55825a).
+2023-09-14 22:17:41,789 - INFO - Darkinia#7043 is now running!
+2023-09-14 22:17:47,348 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 22:17:50,929 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-14 22:18:06,941 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-14 22:18:58,500 - INFO - Message sent by ke_rina_ : "?g trundle" [ id: 286201593404194816 ]
+2023-09-14 22:19:03,264 - INFO - Message sent by ke_rina_ : "?g tr" [ id: 286201593404194816 ]
+2023-09-14 22:19:06,057 - INFO - Message sent by ke_rina_ : "?g t" [ id: 286201593404194816 ]
+2023-09-14 22:22:40,197 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 22:22:43,671 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 22:22:47,468 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 22:22:53,289 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-14 22:22:56,714 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 22:23:01,856 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-14 22:23:11,235 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-14 22:35:36,276 - INFO - logging in using static token
+2023-09-14 22:35:37,164 - INFO - Shard ID None has connected to Gateway (Session ID: 5de9546268afc831bf9aba8269af751f).
+2023-09-14 22:35:39,198 - INFO - Darkinia#7043 is now running!
+2023-09-14 22:38:27,112 - INFO - Message sent by ke_rina_ : "?strt" [ id: 286201593404194816 ]
+2023-09-14 22:38:30,648 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-14 22:38:34,767 - INFO - Message sent by ke_rina_ : "?g olaf" [ id: 286201593404194816 ]
+2023-09-14 22:38:39,624 - INFO - Message sent by ke_rina_ : "?g nunu" [ id: 286201593404194816 ]
+2023-09-15 08:47:29,345 - INFO - logging in using static token
+2023-09-15 08:47:30,273 - INFO - Shard ID None has connected to Gateway (Session ID: 5214b07cea2a08c407037555e6b42165).
+2023-09-15 08:47:32,308 - INFO - Darkinia#7043 is now running!
+2023-09-15 08:48:00,252 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 08:48:06,194 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-15 08:48:26,231 - INFO - Message sent by ke_rina_ : "?g viktor" [ id: 286201593404194816 ]
+2023-09-15 08:48:52,483 - INFO - Message sent by ke_rina_ : "?g ryze" [ id: 286201593404194816 ]
+2023-09-15 08:49:56,792 - INFO - Message sent by ke_rina_ : "?g anivia" [ id: 286201593404194816 ]
+2023-09-15 08:50:18,805 - INFO - Message sent by ke_rina_ : "?g zed" [ id: 286201593404194816 ]
+2023-09-15 08:51:31,609 - INFO - Message sent by ke_rina_ : "?g veigar" [ id: 286201593404194816 ]
+2023-09-15 08:51:46,303 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 08:51:53,381 - INFO - Message sent by ke_rina_ : "?gues" [ id: 286201593404194816 ]
+2023-09-15 08:51:56,903 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 08:52:02,391 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 08:52:05,926 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 08:52:10,625 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 09:00:16,626 - WARNING - Shard ID None has stopped responding to the gateway. Closing and restarting.
+2023-09-15 09:00:16,977 - INFO - Shard ID None session has been invalidated.
+2023-09-15 09:00:22,558 - INFO - Shard ID None has connected to Gateway (Session ID: 6cdbefed2c173f34f033b83a31017e7b).
+2023-09-15 09:00:24,576 - INFO - Darkinia#7043 is now running!
+2023-09-15 09:02:28,350 - INFO - logging in using static token
+2023-09-15 09:02:29,368 - INFO - Shard ID None has connected to Gateway (Session ID: d18f01c264402304dabf6cd06a302609).
+2023-09-15 09:02:31,405 - INFO - Darkinia#7043 is now running!
+2023-09-15 09:02:33,739 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 09:02:54,622 - INFO - Message sent by ke_rina_ : "?twistedfate" [ id: 286201593404194816 ]
+2023-09-15 09:03:05,579 - INFO - Message sent by ke_rina_ : "?g twistedfate" [ id: 286201593404194816 ]
+2023-09-15 09:03:05,581 - ERROR - [Errno 2] No such file or directory: 'pictures/Twistedfate.png'
+2023-09-15 09:04:46,433 - INFO - Message sent by ke_rina_ : "?g twistedfate" [ id: 286201593404194816 ]
+2023-09-15 09:04:56,069 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 09:05:00,599 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 09:05:07,743 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 09:05:23,204 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 09:05:27,156 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 09:07:02,680 - INFO - logging in using static token
+2023-09-15 09:07:03,866 - INFO - Shard ID None has connected to Gateway (Session ID: 888888c4d90373208fc7760638ce6779).
+2023-09-15 09:07:05,874 - INFO - Darkinia#7043 is now running!
+2023-09-15 09:07:15,403 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 09:07:22,297 - INFO - Message sent by ke_rina_ : "?g akali" [ id: 286201593404194816 ]
+2023-09-15 09:07:30,418 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 09:07:35,195 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 09:11:58,472 - INFO - Message sent by ke_rina_ : "?g missfortune" [ id: 286201593404194816 ]
+2023-09-15 09:12:20,796 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 09:12:24,277 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 09:13:27,871 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-15 09:13:32,580 - INFO - Message sent by ke_rina_ : "?g gwen" [ id: 286201593404194816 ]
+2023-09-15 09:14:07,192 - INFO - Shard ID None has successfully RESUMED session 888888c4d90373208fc7760638ce6779.
+2023-09-15 11:13:47,120 - INFO - logging in using static token
+2023-09-15 11:13:48,189 - INFO - Shard ID None has connected to Gateway (Session ID: 51a6ac82427e03e855673296a6d88764).
+2023-09-15 11:13:50,220 - INFO - Darkinia#7043 is now running!
+2023-09-15 11:15:02,021 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:15:05,197 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 11:15:12,184 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-15 11:15:50,501 - INFO - Message sent by ke_rina_ : "?g graves" [ id: 286201593404194816 ]
+2023-09-15 11:16:47,920 - INFO - Message sent by ke_rina_ : "?g kayn" [ id: 286201593404194816 ]
+2023-09-15 11:23:50,246 - INFO - logging in using static token
+2023-09-15 11:23:51,290 - INFO - Shard ID None has connected to Gateway (Session ID: 682976b2b5728c8e927bab7ca98b37e7).
+2023-09-15 11:23:53,328 - INFO - Darkinia#7043 is now running!
+2023-09-15 11:23:56,810 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 11:24:02,098 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:24:05,427 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 11:24:08,951 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:24:17,073 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-15 11:24:30,386 - INFO - Message sent by ke_rina_ : "?g veigar" [ id: 286201593404194816 ]
+2023-09-15 11:24:39,499 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 11:36:46,592 - INFO - Message sent by ke_rina_ : "?guess" [ id: 286201593404194816 ]
+2023-09-15 11:38:12,372 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 11:38:17,756 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:38:32,521 - INFO - Message sent by ke_rina_ : "?g kalista" [ id: 286201593404194816 ]
+2023-09-15 11:38:37,845 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 11:38:40,216 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:38:44,110 - INFO - Message sent by ke_rina_ : "?g ekko" [ id: 286201593404194816 ]
+2023-09-15 11:49:34,632 - INFO - logging in using static token
+2023-09-15 11:49:35,971 - INFO - Shard ID None has connected to Gateway (Session ID: f6bdf3dd15beefa64d8c72616ccfb7b2).
+2023-09-15 11:49:38,011 - INFO - Darkinia#7043 is now running!
+2023-09-15 11:49:45,559 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:49:53,585 - INFO - Message sent by ke_rina_ : "?g xinzhao" [ id: 286201593404194816 ]
+2023-09-15 11:50:01,066 - INFO - Message sent by ke_rina_ : "?stop" [ id: 286201593404194816 ]
+2023-09-15 11:50:03,209 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:50:07,204 - INFO - Message sent by ke_rina_ : "?g ahri" [ id: 286201593404194816 ]
+2023-09-15 11:51:13,283 - INFO - logging in using static token
+2023-09-15 11:51:14,424 - INFO - Shard ID None has connected to Gateway (Session ID: 50ff886a2c0f26bbcde39b75440af36e).
+2023-09-15 11:51:16,451 - INFO - Darkinia#7043 is now running!
+2023-09-15 11:51:17,861 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:51:26,520 - INFO - Message sent by ke_rina_ : "?g darius" [ id: 286201593404194816 ]
+2023-09-15 11:52:49,568 - INFO - logging in using static token
+2023-09-15 11:52:50,838 - INFO - Shard ID None has connected to Gateway (Session ID: 96ad4706b159faca72f452802e7924e2).
+2023-09-15 11:52:52,855 - INFO - Darkinia#7043 is now running!
+2023-09-15 11:53:10,904 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:53:22,428 - INFO - Message sent by ke_rina_ : "?g graves" [ id: 286201593404194816 ]
+2023-09-15 11:54:28,438 - INFO - logging in using static token
+2023-09-15 11:54:29,556 - INFO - Shard ID None has connected to Gateway (Session ID: d1855e3ec59c49d04ec23f57c3f0dded).
+2023-09-15 11:54:31,558 - INFO - Darkinia#7043 is now running!
+2023-09-15 11:54:33,012 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:54:38,588 - INFO - Message sent by ke_rina_ : "?g darius" [ id: 286201593404194816 ]
+2023-09-15 11:54:38,589 - ERROR - 'set' object is not subscriptable
+2023-09-15 11:54:55,694 - INFO - logging in using static token
+2023-09-15 11:54:56,893 - INFO - Shard ID None has connected to Gateway (Session ID: 304278908df942ea069b334f796a7020).
+2023-09-15 11:54:58,911 - INFO - Darkinia#7043 is now running!
+2023-09-15 11:55:01,780 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 11:55:06,007 - INFO - Message sent by ke_rina_ : "?g darius" [ id: 286201593404194816 ]
+2023-09-15 11:55:06,008 - ERROR - int() argument must be a string, a bytes-like object or a real number, not 'set'
+2023-09-15 12:03:02,702 - WARNING - Shard ID None has stopped responding to the gateway. Closing and restarting.
+2023-09-15 12:03:13,787 - ERROR - Attempting a reconnect in 1.44s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-15 12:03:15,561 - INFO - Shard ID None session has been invalidated.
+2023-09-15 12:03:21,160 - INFO - Shard ID None has connected to Gateway (Session ID: 359109e1b67ab23426bcac84366083b4).
+2023-09-15 12:03:23,249 - INFO - Darkinia#7043 is now running!
+2023-09-15 12:04:01,600 - ERROR - Attempting a reconnect in 2.18s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-15 12:04:03,787 - ERROR - Attempting a reconnect in 2.61s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-15 12:04:06,410 - ERROR - Attempting a reconnect in 0.20s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-15 12:04:06,615 - ERROR - Attempting a reconnect in 28.07s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-15 12:04:34,706 - ERROR - Attempting a reconnect in 42.95s
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\keren\Documents\PycharmProjects\Darkinia Timer\venv\Lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2023-09-15 14:07:48,061 - INFO - logging in using static token
+2023-09-15 14:07:48,927 - INFO - Shard ID None has connected to Gateway (Session ID: 9a39a014355d91f06bdbd74e35cfd07e).
+2023-09-15 14:07:50,953 - INFO - Darkinia#7043 is now running!
+2023-09-15 14:07:53,284 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 14:07:58,308 - INFO - Message sent by ke_rina_ : "?g darius" [ id: 286201593404194816 ]
+2023-09-15 14:07:58,309 - ERROR - int() argument must be a string, a bytes-like object or a real number, not 'set'
+2023-09-15 14:09:22,368 - INFO - logging in using static token
+2023-09-15 14:09:23,333 - INFO - Shard ID None has connected to Gateway (Session ID: 4283ddbd6699892a49c34edfc430c8b2).
+2023-09-15 14:09:25,341 - INFO - Darkinia#7043 is now running!
+2023-09-15 14:09:27,389 - INFO - Message sent by ke_rina_ : "?start" [ id: 286201593404194816 ]
+2023-09-15 14:09:34,099 - INFO - Message sent by ke_rina_ : "?g graves" [ id: 286201593404194816 ]
+2023-09-15 14:10:23,885 - INFO - Message sent by ke_rina_ : "?g fiddle" [ id: 286201593404194816 ]
+2023-09-15 14:10:31,026 - INFO - Message sent by ke_rina_ : "?g Fiddlesticks" [ id: 286201593404194816 ]
+2023-09-15 14:10:49,125 - INFO - Message sent by ke_rina_ : "?g hecarim" [ id: 286201593404194816 ]
+2023-09-15 14:35:59,570 - INFO - Shard ID None has successfully RESUMED session 4283ddbd6699892a49c34edfc430c8b2.
+2023-09-20 14:45:14,721 - INFO - logging in using static token
+2023-09-20 14:45:15,880 - INFO - Shard ID None has connected to Gateway (Session ID: 24f437f660883c827bb37f63615ba593).
+2023-09-20 14:45:17,901 - INFO - Darkinia#7043 is now running!

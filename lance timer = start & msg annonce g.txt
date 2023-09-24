@@ -1,0 +1,4 @@
+lance timer => start & msg annonce guess
+lance timer => win
+regarde timer restant => guess si bool_guess=false and bool_start =true
+fin timer bool_guess=true & msg dans le bot

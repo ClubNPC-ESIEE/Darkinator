@@ -1,0 +1,11 @@
+suggestion si genre 3 lettres correspond à un autre perso
+
+si ya plus de 10 champ avec meme 1ère lettre on regarde avec 2 lettres si la longeuur msg est de 2 lettres => si pas trouver
+
+[bureau] msg embed epinglé afficher tous champ
+
+get same firstletter si return None alors on fait n-1 jusqua la longueur 1 (pour suggerer)
+
+timer toutes les 2 4h on peut guest : guess en cours ou dans x temps
+
+?start pour lancer le bot et les guess tous les x temps si pas start guess affiche : Drakinia dort.. Contacte un Bureau !
