@@ -129,6 +129,12 @@ def handle_response(message, strmessage, my_database):
     #**************************************************************
 
     if command == "guess":
+        
+        if bot.choose_update:
+            guess_mode(hours_x,my_database)
+            bot.choose_update = False
+
+
         if len(args) == 1:
             #global bool_start, bool_guess
             if bool_start:
@@ -308,4 +314,5 @@ def guess_mode(n_hours,my_database):
     bool_guess=True
     timer_x=datetime.datetime.now()
     guess_champ=my_database.get_champ_random()
+    print(guess_champ)
 
