@@ -57,7 +57,7 @@ async def send_message(message, user_message, my_database):
 
 
 def run_discord_bot():
-    TOKEN = "MTE0MDkyNTM5MDE3NzY5Nzc5Mg.Gb0KEk.Hahy06dKWIWHqd3F72wVYp8fgu1PVd9_9HnLgU"
+    TOKEN = "TOKEN HERE"
     client = discord.Client(intents=discord.Intents.all())
     my_database = SimpleSQLiteDatabase('champions.db')
     logging.basicConfig(filename='bot.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
