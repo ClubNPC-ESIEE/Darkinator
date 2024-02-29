@@ -112,6 +112,18 @@ class SimpleSQLiteDatabase:
             else:
                 return None
 
+    def get_champ_title_by_search(self,name_champ):
+        select_query=''' 
+            SELECT title FROM Champions WHERE search_name=?;
+        '''
+        with self.connection:
+            cursor = self.connection.execute(select_query, (name_champ,))
+            result = cursor.fetchone()
+            if result:
+                return str(result[0])  # Renvoie le résultat en tant que chaîne de caractères
+            else:
+                return None
+
     def get_champion_by_name(self, name_champ):
         select_query = '''
             SELECT name, title, gender,role, type,race, 
@@ -200,4 +212,23 @@ class SimpleSQLiteDatabase:
 
     def close_connection(self):
         self.connection.close()
+"""
+# Example usage
+database = SimpleSQLiteDatabase('my_database.db')
 
+# Insert a new user
+database.insert_user('John Doe', 1000)
+
+# Insert a new item
+database.insert_item('Apple', 5, 100)
+
+# Update user balance by name
+database.update_balance_by_name('John Doe', 1200)
+
+# Get user by name
+user = database.get_user_by_name('John Doe')
+print(user)
+
+# Don't forget to close the connection when you're done
+database.close_connection()
+"""

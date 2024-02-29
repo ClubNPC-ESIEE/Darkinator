@@ -2,6 +2,9 @@ import bot
 import discord
 import logging
 import datetime
+import threading
+import os
+import requests
 
 bool_start=False
 bool_guess=False
@@ -10,6 +13,15 @@ hours_x=0
 guess_champ=""
 timer_x=datetime.datetime.now()
 
+def telecharge_image(url, dossier,nom_image):
+    response=requests.get(url)
+    if response.status_code==200:
+        chemin_destination=os.path.join(dossier,nom_image)
+        with open(chemin_destination,"wb") as f:
+            f.write(response.content)
+        print("Image téléchargée avec succès")
+    else:
+        print("Échec du téléchargement de l'image")
 def create_embed(title, description):
     color=discord.Color(0xb408ab) #couleur msg embed
     return discord.Embed(title=title, description=description, color=color)
@@ -59,7 +71,7 @@ def handle_response(message, strmessage, my_database):
 ?help : Display the help message
 ?user : Check ownership of a user profile 
 ?guess : Display guessing statut 
-?<name_champ> : In guess mode, Allow you to propose a champion
+?g <name_champ> : In guess mode, Allow you to propose a champion
 """
             return create_embed("FridgeFund Bot Commands", command_summary)
         elif len(args) == 2 and args[1] == "bureau" and bot.check_role("Bureau", message):
@@ -71,7 +83,7 @@ def handle_response(message, strmessage, my_database):
 ?point <id_user> : Show the balance of the specified user.
 ?champs : List all League of Legends champions
 ?create user <id_user> : Create a new user
-?create champ <name> <title> <gender> <role> <type> <race> <resource> <typeautoattack> <region> <releaseyear> <search_name> : Create a new champ
+?create champ <name> <title> <gender> <role> <type> <race> <resource> <typeautoattack> <region> <releaseyear> <search_name> <url_image_champ> : Create a new champ
 ?update point <id_user> <amount_added> : Update user's point(s) (add the amount to the point(s))
 ?delete user <id_user> : Delete a user
 ?delete champ <champ_name> : Delete a champion
@@ -129,12 +141,9 @@ def handle_response(message, strmessage, my_database):
     #**************************************************************
 
     if command == "guess":
-        
         if bot.choose_update:
             guess_mode(hours_x,my_database)
-            bot.choose_update = False
-
-
+            bot.choose_update=False
         if len(args) == 1:
             #global bool_start, bool_guess
             if bool_start:
@@ -150,7 +159,6 @@ def handle_response(message, strmessage, my_database):
     # *************************************** Bureau Suprématie *********************************************
     if command == "start" and bot.check_role("Bureau", message) and not bool_start:
         if len(args)==1 :
-            print(bool_guess,bool_start,timer_x)
             return starting_mode(hours_default,my_database)
         elif len(args) == 2 :
             if is_convertible_to_int(args[1]):
@@ -189,10 +197,13 @@ def handle_response(message, strmessage, my_database):
             my_database.insert_user(int(arg_2))
             return create_embed("Create","You created the user : " + str(arg_2))
 
-        if len(args)==13 and args[1] == "champ" and not check_champ_exist(arg_2, my_database):
+        if len(args)==14 and args[1] == "champ" and not check_champ_exist(arg_2, my_database):
             my_database.insert_champion(arg_2, args[3], args[4],args[5],args[6],args[7],args[8],args[9],args[10],args[11],args[12])
+            name_image=str(args[12])
+            name_image=name_image[0].upper()+name_image[1:]
+            telecharge_image(args[13],"pictures",name_image+".png")
             return create_embed("Create","You created the champion : " + str(arg_2))
-        return help_embed("Create: ?create user id_user ,or , ?create champ name_champ title gender role type race resource typeautoattack region releaseyear search_name")
+        return help_embed("Create: ?create user id_user ,or , ?create champ name_champ title gender role type race resource typeautoattack region releaseyear search_name url_image_champ")
 
     if command == "update" and bot.check_role("Bureau", message):
         arg_1 = args[1]
@@ -271,24 +282,25 @@ def guess_reponse(name_command,my_database,id):
     win=0
     for i in range(2,len(data_c)-1):
         comp=compare(data_g[i],data_c[i])
+        print(str(data_g[i])+" ; "+str(data_c[i])+"\n")
         win+=comp[1]
         e.add_field(name=t[i-2],value=str(comp[0]) +" "+ str(data_c[i]),inline=True)
-    if win==len(t):
+    #'if win==len(t):
+    if guess_champ==name_command:
+        someone_guessed(my_database)
         bool_guess=False
         my_database.update_points_by_id(10,id)
-        e.description="gg ez ( ͡° ͜ʖ ͡°) You guessed "+str(name_champ)+" ! +10 points"
+        e.description="gg ez ( ͡° ͜ʖ ͡°) You guessed "+str(name_champ)+" ! +10 points \n"+'"'+str(my_database.get_champ_title_by_search(name_command))+'"'
     return e,file #voir comment je passe le file, sachant que par défaut None sauf ici !
 
 def compare(g,c):
     g = set(str(g).split())
     c = set(str(c).split())
-    print( str(g) +" "+str(c) +"|")
     if g.issubset(c):  # tous les mots sont contenus
         return [":white_check_mark:", 1]
     elif len(g.intersection(c)) > 0 or len(c.intersection(g)) > 0:  # des mots sont partiellement présents
         return [":fire:", 3]
     else:  # aucun mot en commun
-        print(len(g))
         if len(g)==1 and len(c)==1:
             try:
                 emo=""
@@ -316,3 +328,17 @@ def guess_mode(n_hours,my_database):
     guess_champ=my_database.get_champ_random()
     print(guess_champ)
 
+def someone_guessed(my_database):
+    print("alled")
+    delay_seconds = hours_x * 60 * 60
+    timer = threading.Timer(delay_seconds, end_timer, args=(my_database,))
+    print(timer)
+    timer.start()
+    return
+
+def end_timer(my_database):
+    print("caca")
+    guess_mode(hours_x,my_database)
+    return
+
+#Créer une fonction pour les bureaux pour ajouter un nouveau champion : et pour joindre l'image issu de : https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/

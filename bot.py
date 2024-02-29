@@ -1,22 +1,27 @@
 import discord
 from database import SimpleSQLiteDatabase
 import logging
-import datetime
 import responses
 import asyncio
+import threading
 import time
-import threading 
-import time
+
 #Update signal is produced each n seconds and champion is updated ONLY when ?guess command is called
-n = 3600
-#Spaghetthi code
-choose_update = False
+n=3600
+choose_update=False
+
 def update_bool_guess(my_database):
     global choose_update
     while True:
-        choose_update = True
-        time.sleep(n);
- 
+        choose_update=True
+        time.sleep(n)
+
+"""async def update_bool_guess(my_database):
+    hours,minutes =responses.how_long_guess_mode_active()
+    while True:
+        await asyncio.sleep(60)
+        if hours<=0 and minutes<=0:
+            responses.guess_mode(responses.hours_x,my_database)"""
 
 def check_role(name_role, msg):
     verif_role = discord.utils.get(msg.guild.roles, name=name_role)
@@ -57,7 +62,7 @@ async def send_message(message, user_message, my_database):
 
 
 def run_discord_bot():
-    TOKEN = "TOKEN HERE"
+    TOKEN = 'MTE0MDkyNTM5MDE3NzY5Nzc5Mg.G2FNf5.a3P8RME9KnMK_oD0k8lWsmQTwjIatOfja-S4z0'
     client = discord.Client(intents=discord.Intents.all())
     my_database = SimpleSQLiteDatabase('champions.db')
     logging.basicConfig(filename='bot.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -91,8 +96,9 @@ def run_discord_bot():
                     return
 
     # Lancez la tâche périodique
-    th = threading.Thread(target=update_bool_guess, args=(my_database,) )
+    th = threading.Thread(target=update_bool_guess, args=(my_database,))
     th.start();
+
     # Remember to run your bot with your personal TOKEN
     client.run(TOKEN)
 
