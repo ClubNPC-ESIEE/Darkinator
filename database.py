@@ -56,7 +56,7 @@ class SimpleSQLiteDatabase:
             if result:
                 return str(result[0])
             else:
-                return None  # Ou tout autre indication de l'absence de résultat
+                return None
 
     def get_all_users(self):
         select_all_query = '''
