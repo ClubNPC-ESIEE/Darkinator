@@ -7,17 +7,20 @@ import common
 import time
 
 #INIT VARS--------------------------------------
-n=3600 # Update signal is produced each n seconds and champion is updated ONLY when ?guess command is called
+n=24 # Update signal is produced each n seconds and champion is updated ONLY when ?guess command is called
 choose_update=False
+choose_update_lock = threading.Lock()  # Créez un verrou global
 client = discord.Client(intents=discord.Intents.all())
 tree=app_commands.CommandTree(client)
 #-----------------------------------------------
 
 def update_bool_guess(my_database):
     global choose_update
+    global choose_update_lock
     while True:
-        choose_update=True
-        time.sleep(n)
+        with choose_update_lock:
+            choose_update=True
+        time.sleep(n*3600)
 
 def run_discord_bot():
     my_database = SimpleSQLiteDatabase('champions.db')

@@ -5,8 +5,10 @@ import datetime
 import threading
 import os
 import requests
+import logging
 
 #INIT VARS--------------------------------------
+n_th=0
 bool_start=False
 bool_guess=False
 hours_default=24
@@ -49,19 +51,30 @@ def help_embed(str_):
 def update_embed(str_):
     return create_embed("Update",str_)
 
+def creation_user_cotisant(user_id, user_name,inter:discord.Interaction):
+    if check_user_exist(user_id):
+        return True
+    elif check_roles(inter, ["Cotisant"]):
+        common.DB.insert_user(user_id, user_name)
+        return True
+    else:
+        return False
+
 def telecharge_image(url, dossier,nom_image):
     chemin_destination = os.path.join(dossier, nom_image)
     if os.path.exists(chemin_destination):
-        print("L'image", nom_image, "est déjà présente dans le dossier.")
+        logging.info("L'image "+str(nom_image)+" est déjà présente dans le dossier.")
         os.remove(chemin_destination)  # Supprimer l'ancienne image
 
     response=requests.get(url)
     if response.status_code==200:
         with open(chemin_destination,"wb") as f:
             f.write(response.content)
-        print("Image téléchargée avec succès")
+        logging.info("Image téléchargée avec succès")
+        return True
     else:
-        print("Échec du téléchargement de l'image")
+        logging.info("Échec du téléchargement de l'image")
+        return False
 
 def check_user_exist(id):
     return common.DB.user_exist_by_id(id)
@@ -87,6 +100,10 @@ def how_long_guess_mode_active():
     return hours, minutes
 
 def starting_mode(n_hours):
+    # _____________________
+    if bot.choose_update:
+        bot.choose_update = False
+    # ^^^^^^^^^^^^^^^^^^^^^
     guess_mode(n_hours)
     return create_embed("Start","Guess mode is activated every "+str(hours_x)+" hours.")
 
@@ -97,6 +114,7 @@ def guess_mode(n_hours):
     bool_guess=True
     timer_x=datetime.datetime.now()
     guess_champ=common.DB.get_champ_random()
+    logging.info(guess_champ)
     print(guess_champ)
 
 def compare(g,c):
@@ -126,25 +144,26 @@ def guess_reponse(name_command,id):
 
     data_g=common.DB.get_champion_by_name(guess_champ)
     data_c=common.DB.get_champion_by_name(name_command)
-    name_champ=common.DB.get_name_champ_by_search(name_command)
+    name_command_search=name_command
+    name_command=name_command.capitalize()
 
     t=["Gender","Role","Type","Race","Resource","Range type","Region(s)","Release year"]
     e=create_embed("Guessing",None)
-    image_path="pictures/"+str(name_champ)+".png"
-    file = discord.File(image_path, filename=str(name_champ)+".png")
+    image_path="pictures/"+str(name_command)+".png"
+    file = discord.File(image_path, filename=str(name_command)+".png")
     e.set_thumbnail(url="attachment://" + image_path)
-    e.add_field(name="Champion",value=name_champ,inline=True)
+    e.add_field(name="Champion",value=name_command,inline=True)
     win=0
     for i in range(2,len(data_c)-1):
         comp=compare(data_g[i],data_c[i])
         print(str(data_g[i])+" ; "+str(data_c[i])+"\n")
         win+=comp[1]
         e.add_field(name=t[i-2],value=str(comp[0]) +" "+ str(data_c[i]),inline=True)
-    if guess_champ==name_command:
+    if guess_champ==name_command_search:
         #someone_guessed(common.DB)
         bool_guess=False
         common.DB.update_points_by_id(10,id)
-        e.description="gg ez ( ͡° ͜ʖ ͡°) You guessed "+str(name_champ)+" ! +10 points \n"+'"'+str(common.DB.get_champ_title_by_search(name_command))+'"'
+        e.description="gg ez ( ͡° ͜ʖ ͡°) You guessed "+str(name_command)+" ! +10 points \n"+'"'+str(common.DB.get_champ_title_by_search(name_command))+'"'
     return e,file
 
 #-------------------------------------------------
@@ -168,25 +187,27 @@ def guess_reponse(name_command,id):
 
 @bot.tree.command(name="hello", description="Say hello to the bot", guild=discord.Object(id=common.SERVER_ID))
 async def helloCmd(inter:discord.Interaction):
-    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []):
+    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, [] ) or not creation_user_cotisant(inter.user.id, inter.user.name,inter):
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
     return await inter.response.send_message(embed=create_embed(None, "Hey there!"))
 
 @bot.tree.command(name="info", description="Get info about the bot", guild=discord.Object(id=common.SERVER_ID))
 async def infoCmd(inter:discord.Interaction):
-    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []):
+    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []) or not creation_user_cotisant(inter.user.id, inter.user.name,inter):
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
     return await inter.response.send_message(embed=create_embed(None, "My name is Darkinator, but my creator prefer to call me as Darkinia. Have fun and guess LoL Champions!"))
 
 @bot.tree.command(name="point", description="Get your points", guild=discord.Object(id=common.SERVER_ID))
 async def pointCmd(inter:discord.Interaction):
-    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []):
+    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []) or not creation_user_cotisant(inter.user.id, inter.user.name,inter):
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
+    if not check_user_exist(inter.user.id):
+        return await inter.response.send_message(embed=create_embed(None, "User not found."))
     return await inter.response.send_message(embed=affiche_point(inter.user.id, inter.user.id, "Point(s)"))
 
 @bot.tree.command(name="all", description="Get all points", guild=discord.Object(id=common.SERVER_ID))
 async def allCmd(inter:discord.Interaction):
-    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []):
+    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []) or not creation_user_cotisant(inter.user.id, inter.user.name,inter):
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
     data= common.DB.get_all_users()
     msg=""
@@ -204,16 +225,19 @@ async def allCmd(inter:discord.Interaction):
 
 @bot.tree.command(name="guess", description="Guess state", guild=discord.Object(id=common.SERVER_ID))
 async def guessCmd(inter:discord.Interaction):
-    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []):
+    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []) or not creation_user_cotisant(inter.user.id, inter.user.name,inter):
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
-    global hours_x, bool_guess, bool_start
-    if bot.choose_update:
-        guess_mode(hours_x)
-        bot.choose_update = False
-    title="Guess"
+    title = "Guess"
+    global hours_x, bool_guess, bool_start, timer_x
+
     if bool_start:
-        msg="A guess is in progress.."
+        time_elapsed = datetime.datetime.now() - timer_x #
+        if bot.choose_update and time_elapsed.total_seconds() >= hours_x * 3600: #
+            guess_mode(hours_x) #
+            bot.choose_update = False #
+
         if bool_guess:
+            msg = "A guess is in progress.."
             return await inter.response.send_message(embed=create_embed(title,msg))
         else:
             hours, minutes = how_long_guess_mode_active()  # vérifer : heure actuelle - timer_x rste temps avant prochain guess bool_guess
@@ -225,11 +249,19 @@ async def guessCmd(inter:discord.Interaction):
 
 @bot.tree.command(name="g", description="Guess a champion with this command.", guild=discord.Object(id=common.SERVER_ID))
 async def questionCmd(inter:discord.Interaction, champion:str):
-    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []):
+    if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, []) or not creation_user_cotisant(inter.user.id, inter.user.name,inter):
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
     if not bool_guess:
         return await inter.response.send_message(embed=create_embed("Guess", "Guess not in progresed."))
     champ_name= champion.lower()
+    global bool_start, hours_x, timer_x
+
+    if bool_start and not bool_guess:
+        time_elapsed = datetime.datetime.now() - timer_x
+        if bot.choose_update and time_elapsed.total_seconds() >= hours_x * 3600:
+            guess_mode(hours_x)
+            bot.choose_update = False
+
     if check_champ_exist(champ_name):
         e,file=guess_reponse(champ_name, inter.user.id)
         return await inter.response.send_message(embed=e, file=file)
@@ -242,7 +274,7 @@ async def questionCmd(inter:discord.Interaction, champion:str):
         msg=""
         if data :
             for champ in data:
-                msg = "```"
+                msg += "```"
                 msg += champ[0] + " ‎" * 4
                 msg += "```"
             return await inter.response.send_message(embed=create_embed("Did you mean.. ", msg))
@@ -250,15 +282,13 @@ async def questionCmd(inter:discord.Interaction, champion:str):
             return await inter.response.send_message(embed=create_embed("No suggestion(s)", "Are you sure about the name of the champion?"))
 
 @bot.tree.command(name="zstart", description="Start the guess mode", guild=discord.Object(id=common.SERVER_ID))
-async def zstartCmd(inter:discord.Interaction, hours:int=-1):
+async def zstartCmd(inter:discord.Interaction):
     if not check_channels(inter, [common.DEFAULT_CHANNEL_ID]) or not check_roles(inter, ["Bureau"]):
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
-    global bool_start
+    global bool_start, hours_x
     if bool_start:
         return await inter.response.send_message(embed=create_embed("Start", "Guess mode is already activated."))
-    if hours==-1:
-        hours=hours_default
-    return await inter.response.send_message(embed=starting_mode(hours))
+    return await inter.response.send_message(embed=starting_mode(hours_x))
 
 @bot.tree.command(name="zstop", description="Stop the guess mode", guild=discord.Object(id=common.SERVER_ID))
 async def zstopCmd(inter:discord.Interaction):
@@ -319,9 +349,11 @@ async def zcreate_champCmd(inter:discord.Interaction, name:str, title:str,gender
         return await inter.response.send_message(embed=create_embed(None, common.gInvalidCmdMsg))
     if check_champ_exist(search_name):
         return await inter.response.send_message(embed=create_embed(None, "Champion already exists."))
-    try:
-        telecharge_image(url,"pictures",search_name.capitalize()+".png")
-    except:
+    #try:
+    result=telecharge_image(url,"pictures",search_name.capitalize()+".png")
+    if not result:
+    #    telecharge_image(url,"pictures",search_name.capitalize()+".png")
+    #except:
         return await inter.response.send_message(embed=create_embed(None, "Invalid URL."))
     common.DB.insert_champion(name, title, gender, role, type, race, resource, typeautoattack, region, releaseyear, search_name)
     return await inter.response.send_message(embed=create_embed("Create", "Champion has been created."))
